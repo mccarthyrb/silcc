@@ -1,0 +1,12 @@
+silcc for Debian
+----------------
+The sources came from Doug Rintoul <doug_rintoul@sil.org> via email to Jim
+Kornelsen <jim_kornelsen@sil.org>, who passed them on to me.  Some minor
+changes came from Neil Mayhew <neil_mayhew@sil.org>.  They had an antique
+form of Debian packaging which has been replaced or updated.  The sources had
+a standard GPL license COPYING file, which I don't recall ever being approved
+by SIL for any of our software, and which conflicted with internal comments
+in several source files.  After discussion, everything has been changed to
+the MIT license used for the rest of SIL Internation language software.
+
+-- Stephen McConnel <stephen_mcconnel@sil.org>  Mon, 13 Apr 2015 17:45:27 -0500

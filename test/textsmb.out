@@ -1,0 +1,1857 @@
+\_sh v3.0  400  Text
+\_DateStampHasFourDigitYear
+
+\id CamelStory
+\ref CamelStory.001
+\tx Hadithi ya            ngamia aliyekuwa                                     mvivu
+\mb hadithi y-      =a    ngamia a-     =li-     =ye           =ku- =w =-a     m-      =vivu
+\ge story   CL9-    =of   camel  3S-    =PAST-   =REL CL1      =2S- =be=-???   CL1-    =lazy
+\ps n       n:class-=prep n      vs:agr-=v:tense-=v:class      =agr-=v =-unkwn n:class-=unkwn
+
+\ft
+
+\ref CamelStory.002
+\tx Tuzo                  ya            Bidii.
+\mb tu- =z-        =o     y-      =a    bidii
+\ge 1P- =CL10-     =???   CL9-    =of   effort
+\ps agr-=adj:class-=unkwn n:class-=prep n
+
+\ft
+
+\ref CamelStory.003
+\tx Saa  sita mafundisho            ya               shule  yamekwisha.
+\mb saa  sita ma-         =fundisho y-         =a    shule  ya-     =me-     =kwish =-a
+\ge hour six  CL6  =PL-   =lesson   CL6-       =of   school CL6-    =PF-     =finish=-???
+\ps n    num  n:class-    =n        prep:class-=prep n      v:class-=v:tense-=v     =-unkwn
+
+\ft At noon the classes had finished. 
+
+\ref CamelStory.004
+\tx Watoto         wote           wanarudi             nyumbani.
+\mb Wa-     =toto  w-        =ote wa- =na-     =rudi   nyumba=-ni.
+\ge CL2-    =child CL2-      =all 3P- =PRES-   =return house =-at
+\ps n:class-=n     adj:class-=adj agr-=v:tense-=v      n     =-loc
+
+\ft All the children are returning home.
+
+\ref CamelStory.005
+\tx Loo, mwangalie                   yule          Petro, anafuraha
+\mb Loo, mw-    =angali=-e           yu-     =le   Petro, a-     =na-     =furah    =-a
+\ge Wow! 3S-    =look  =-SUBJUNCTIVE CL1-    =that Peter  3S-    =PRES-   =happiness=-???
+\ps ph   vo:agr-=v     =-v:tense     n:class-=pn   n      vs:agr-=v:tense-=v        =-unkwn
+
+\tx kubwa sana.
+\mb kubwa sana.
+\ge big   very
+\ps adj   adj
+
+\ft Wow, look at Peter, he is very happy. 
+
+
+\ref CamelStory.006
+\tx Ameshika                     kitabu        kipya        mkononi.
+\mb A-     =me-     =shik=-a     ki-     =tabu ki-     =pya m-      =kono=-ni.
+\ge 3S-    =PF-     =grab=-???   CL7-    =book CL7-    =new CL1-    =hand=-at
+\ps vs:agr-=v:tense-=v   =-unkwn n:class-=n    n:class-=adj n:class-=n   =-loc
+
+\ft He has grabbed a new book in his hand. 
+
+\ref CamelStory.007
+\tx Baba,  baba,  angalia       kitabu        changu!        Kizuri        sana.
+\mb Baba,  baba,  angali=-a     ki-     =tabu ch-     =angu! Ki-     =zuri sana.
+\ge father father look  =-???   CL7-    =book CL7-    =1S    CL7-    =good very
+\ps n      n      v     =-unkwn n:class-=n    n:class-=agr   n:class-=adj  adj
+
+\ft “Father, Father, look at my book!  It is really good.
+
+\ref CamelStory.008
+\tx Mwalimu          amenipa                           zawadi!
+\mb Mw-     =alimu   a-     =me-     =ni- =p   =-a     zawadi!
+\ge CL1-    =teacher 3S-    =PF-     =1S- =give=-???   gift
+\ps n:class-=n       vs:agr-=v:tense-=agr-=v   =-unkwn n
+
+\tx Mwalimu          akaniambia                        hivi:
+\mb Mw-     =alimu   a-     =ka-     =ni- =ambi=-a     hi  =-vi:
+\ge CL1-    =teacher 3S-    =NAR-    =1S- =tell=-???   this=-CL8
+\ps n:class-=n       vs:agr-=v:tense-=agr-=v   =-unkwn pn  =-n:class
+
+\tx umeandika                  vizuri          sana.
+\mb u-  =me-     =andik=-a     vi-       =zuri sana.
+\ge 2S- =PF-     =write=-???   CL8-      =good very
+\ps agr-=v:tense-=v    =-unkwn adv:class-=adj  adj
+
+\ft The teacher has given me a gift! The teacher told me this: ‘You have written very well.
+
+
+\ref CamelStory.009
+\tx Herufi   zote           sawa   sawa.
+\mb Herufi   z-        =ote sawa   sawa.
+\ge alphabet CL10-     =all proper proper
+\ps n        adj:class-=adj adj    adj
+
+\ft The whole alphabet is proper. 
+
+\ref CamelStory.010
+\tx Chukua       kitabu        hiki          sasa
+\mb chuku=-a     ki-     =tabu hi  =-ki      sasa
+\ge take =-???   CL7-    =book this=-CL7     now
+\ps v    =-unkwn n:class-=n    pn  =-n:class unkwn
+
+\tx upate                 kukisoma                         nyumbani.
+\mb u-  =pat=-e           ku-        =ki-     =som =-a     nyumba=-ni
+\ge 2S- =get=-SUBJUNCTIVE INFINITIVE-=CL7-    =read=-???   house =-at
+\ps agr-=v  =-v:tense     v:tense-   =n:class-=v   =-unkwn n     =-loc
+
+\ft Take this book now so you can read it at home.’” 
+
+\ref CamelStory.011
+\tx Baba   anajibu:                Vema,     mwanangu.
+\mb baba   a-     =na-     =jibu   Vema      mw-     =an         =angu
+\ge father 3S-    =PRES-   =answer very good CL1-    =offspring  =1S
+\ps n      vs:agr-=v:tense-=v      ph        n:class-=n          =agr
+
+\ft Father is answering, “Very good my child.
+
+\ref CamelStory.012
+\tx Napenda              sana kuona                     bidii  yako.
+\mb na-     =pend=-a     sana ku-        =on    =-a     bidii  y-      =ako
+\ge PRES-   =like=-???   very INFINITIVE-=notice=-???   effort CL9-    =2S
+\ps v:tense-=v   =-unkwn adj  v:tense-   =v     =-unkwn n      n:class-=agr
+
+\ft I really like to see your effort. 
+
+\ref CamelStory.013
+\tx Je,  ukamwambia                         mwalimu          asante?
+\mb je   u-  =ka-     =mw-     =ambi=-a     mw-     =alimu   asante
+\ge Q    2S- =NAR-    =CL1-    =tell=-???   CL1-    =teacher thank-you
+\ps qmrk agr-=v:tense-=n:class-=v   =-unkwn n:class-=n       v
+
+\ft Did you tell the teacher ‘thank you’?” 
+
+
+\ref CamelStory.014
+\tx Ndiyo, baba.
+\mb ndiyo  baba
+\ge Yes    father
+\ps unkwn  n
+
+\ft “Yes Father.” 
+
+
+\ref CamelStory.015
+\tx Basi, ukijifunza                      shuleni     vizuri          namna
+\mb basi  u-  =ki-   =ji-   =funz =-a     shule =-ni  vi-       =zuri namna
+\ge okay  2S- =COND- =SELF- =teach=-???   school=-at  CL8-      =good way
+\ps unkwn agr-=unkwn-=unkwn-=v    =-unkwn n     =-loc adv:class-=adj  n
+
+\tx hii,          nitakupa                       kofia ya
+\mb hi  =-i       ni- =ta-     =ku- =p   =-a     kofia y-         =a
+\ge this=-CL9     1S- =FUT-    =2S- =give=-???   hat   CL9-       =of
+\ps pn  =-n:class agr-=v:tense-=agr-=v   =-unkwn n     prep:class-=prep
+
+\tx tarbushi, mwisho      wa               mwezi.
+\mb tarbushi  mw-   =isho w-         =a    mw-   =ezi
+\ge fez       CL3-  =end  CL3-       =of   CL3-  =month
+\ps n         unkwn-=n    prep:class-=prep unkwn-=n
+
+\ft “Okay, if you learn in school well like this, I will give you a fez at the end of the month.
+ 
+\ref CamelStory.016
+\tx Sasa  soma        kitabu        chako.
+\mb sasa  som =-a     ki-     =tabu ch-     =ako
+\ge now   read=-???   CL7-    =book CL7-    =2S
+\ps unkwn v   =-unkwn n:class-=n    n:class-=agr
+
+\ft Now read your book. 
+
+
+\ref CamelStory.017
+\tx Keti hapa ukatusomee.
+\mb keti hapa u-  =ka-     =tu- =som =-e  =-e
+\ge sit  here 2S- =NAR-    =1P- =read=-BEN=-SUBJUNCTIVE
+\ps v    loc  agr-=v:tense-=agr-=v   =-pn =-v:tense
+
+\ft Sit here and read for us.” 
+
+\ref CamelStory.018
+\tx Petro, akafungua                     kitabu        chake        kipya,
+\mb Petro  a-     =ka-     =fungu=-a     ki-     =tabu ch-     =ake ki-     =pya
+\ge Peter  3S-    =NAR-    =open =-???   CL7-    =book CL7-    =3S  CL7-    =new
+\ps n      vs:agr-=v:tense-=v    =-unkwn n:class-=n    n:class-=agr n:class-=adj
+
+\tx akatusomea                             hadithi ya               ngamia mvivu.
+\mb a-     =ka-     =tu- =som =-e  =-a     hadithi y-         =a    ngamia m-      =vivu
+\ge 3S-    =NAR-    =1P- =read=-BEN=-???   story   CL9-       =of   camel  CL1-    =lazy
+\ps vs:agr-=v:tense-=agr-=v   =-pn =-unkwn n       prep:class-=prep n      n:class-=unkwn
+
+\ft Peter then opened his new book, and he read for us the story of the lazy camel. 
+
+
+\ref CamelStory.019
+\tx Hapo  zamani          za              kale    dunia
+\mb Hapo  zamani          z-        =a    kale    dunia
+\ge then  a long time ago CL10-     =of   earlier world
+\ps unkwn ph              adj:class-=prep adj     n
+
+\tx ilikuwa                                 bado  mpya       kabisa.
+\mb i-      =li-     =ku-        =w =-a     bado  m-    =pya kabisa
+\ge CL9-    =PAST-   =INFINITIVE-=be=-???   still ???-  =new very/completely
+\ps n:class-=v:tense-=v:tense-   =v =-unkwn unkwn unkwn-=adj unkwn
+
+\ft A very long time ago the world was still very new.
+
+
+\ref CamelStory.020
+\tx Iliwapasa                                  wanyama         wote           kufanya
+\mb i-      =li-     =wa- =pas         =-a     wa-     =nyama  w-        =ote ku-        =fany=-a
+\ge CL9-    =PAST-   =3P- =be-necessary=-???   CL2-    =animal CL2-      =all INFINITIVE-=do  =-???
+\ps n:class-=v:tense-=agr-=unkwn       =-unkwn n:class-=n      adj:class-=adj v:tense-   =v   =-unkwn
+
+\tx kazi nyingi          ili           waitengeneze                        sawa   sawa,
+\mb kazi ny-       =ingi ili           wa- =i-      =tengenez=-e           sawa   sawa
+\ge work CL9-      =much in order that 3P- =CL9-    =make    =-SUBJUNCTIVE proper proper
+\ps n    adj:class-=adj  ph            agr-=n:class-=v       =-v:tense     adj    adj
+
+\tx iwe                      mahali             pazuri        pakukaa.
+\mb i-      =w =-e           ma-         =hali  pa-     =zuri pa-     =ku-        =ka  =-a
+\ge CL9-    =be=-SUBJUNCTIVE CL6  =PL-   =place CL16-   =good CL16-   =INFINITIVE-=live=-???
+\ps n:class-=v =-v:tense     n:class-    =n     v:class-=adj  v:class-=v:tense-   =v   =-unkwn
+
+\ft It was necessary that all the animals do a lot of work in order that they make it proper, it is a good place to live. 
+
+
+\ref CamelStory.021
+\tx Farasi akafanya                     kazi nyingi          kabisa;
+\mb farasi a-     =ka-     =fany=-a     kazi ny-       =ingi kabisa
+\ge horse  3S-    =NAR-    =do  =-???   work CL9-      =much very/completely
+\ps n      vs:agr-=v:tense-=v   =-unkwn n    adj:class-=adj  unkwn
+
+\tx na   ng'ombe pia,  na   mbwa, na   punda, na   ndovu    kadhalika.
+\mb na   ng'ombe pia   na   mbwa  na   punda  na   ndovu    kadhalika
+\ge and  cow     also  and  dog   and  donkey and  elephant and-so-on
+\ps conj n       unkwn conj n     conj n      conj n        ph
+
+\ft The horse works a lot completely; and the cow too, and the dog, and the donkey, and the elephant and so on.
+
+\ref CamelStory.022
+\tx Ila   ngamia peke  yake         hakufanya
+\mb ila   ngamia peke  y-      =ake h-    =a-     =ku-      =fany=-a
+\ge but   camel  alone CL9-    =3S  NEG-  =3S-    =PAST/NEG-=do  =-???
+\ps unkwn n      unkwn n:class-=agr unkwn-=vs:agr-=unkwn-   =v   =-unkwn
+
+\tx kazi yo                yote.
+\mb kazi y-         =o     y-      =ote
+\ge work CL9-       =???   CL9-    =all
+\ps n    prep:class-=unkwn n:class-=adj
+
+\ft But the camel alone he did not do any work at all. 
+
+\ref CamelStory.023
+\tx Alikuwa                                akipiga                   uvivu          kutwa   kucha,
+\mb a-     =li-     =ku-        =w =-a     a-     =ki-   =pig=-a     u-      =vivu  kutwa   kucha
+\ge 3S-    =PAST-   =INFINITIVE-=be=-???   3S-    =PRPT- =hit=-???   CL11-   =lazy  all-day darkness
+\ps vs:agr-=v:tense-=v:tense-   =v =-unkwn vs:agr-=unkwn-=v  =-unkwn n:class-=unkwn unkwn   unkwn
+
+\tx akijitenga                             mbali         na   wanyama         wengine,         na
+\mb a-     =ki-   =ji-   =teng     =-a     mbali         na   wa-     =nyama  we-       =ngine na
+\ge 3S-    =PRPT- =SELF- =set-apart=-???   at-a-distance and  CL2-    =animal CL2-      =other and
+\ps vs:agr-=unkwn-=unkwn-=v        =-unkwn unkwn         conj n:class-=n      adj:class-=adj   conj
+
+\tx kula                   majani             jangwani    katika upweke.
+\mb ku-        =l  =-a     ma-         =jani  jangwa=-ni  katika upweke
+\ge INFINITIVE-=eat=-???   CL6  =PL-   =grass desert=-at  in     loneliness
+\ps v:tense-   =v  =-unkwn n:class-    =n     n     =-loc prep   unkwn
+
+\ft He was lazy night and day, he set himself off away from the other animals, and ate grass in the desert alone. 
+
+\ref CamelStory.024
+\tx Wanyama         wengine          hawakupenda
+\mb wa-     =nyama  we-       =ngine h-    =a-     =wa- =ku-      =pend=-a
+\ge CL2-    =animal CL2-      =other NEG-  =3S-    =3P- =PAST/NEG-=like=-???
+\ps n:class-=n      adj:class-=adj   unkwn-=vs:agr-=agr-=unkwn-   =v   =-unkwn
+
+\tx uvivu          wake         hata       kidogo,  kwa            maana kazi yao
+\mb u-      =vivu  w-      =ake hata       kidogo   kwa            maana kazi y-      =ao
+\ge CL11-   =lazy  CL14-   =3S  even/until a-little so/for/because so    work CL9-    =3P
+\ps n:class-=unkwn n:class-=agr unkwn      unkwn    unkwn          unkwn n    n:class-=agr
+
+\tx ikazidi,                   wakanuna.
+\mb i-      =ka-     =zidi,    wa- =ka-     =nuna.
+\ge CL9-    =NAR-    =continue 3P- =NAR-    =complain
+\ps n:class-=v:tense-=v        agr-=v:tense-=v
+
+\ft The other animals didn't like his laziness even a little, so their work continued, and they complained.  
+
+
+\ref CamelStory.025
+\tx Mwisho      wakamwendea                           ngamia yule          kumwuliza
+\mb Mw-   =isho wa- =ka-     =mw-    =end=-e  =-a     ngamia yu-     =le   ku-        =mw-    =uliz=-a
+\ge CL3-  =end  3P- =NAR-    =3S-    =go =-BEN=-???   camel  CL1-    =that INFINITIVE-=3S-    =ask =-???
+\ps unkwn-=n    agr-=v:tense-=vo:agr-=v  =-pn =-unkwn n      n:class-=pn   v:tense-   =vo:agr-=v   =-unkwn
+
+\tx sababu ya               kupiga                 uvivu        yeye peke  yake,
+\mb sababu y-         =a    ku-        =pig=-a     u-    =vivu  yeye peke  y-      =ake,
+\ge reason CL9-       =of   INFINITIVE-=hit=-???   CL11- =lazy  3S   alone CL9-    =3S
+\ps n      prep:class-=prep v:tense-   =v  =-unkwn unkwn-=unkwn pn   unkwn n:class-=agr
+
+\tx asifanye                         kazi yo                yote,
+\mb a-     =si-   =fany=-e           kazi y-         =o     y-         =ote
+\ge 3S-    =NEG-  =do  =-SUBJUNCTIVE work CLASS 9-   =???   CLASS 9-   =all
+\ps vs:agr-=unkwn-=v   =-v:tense     n    n:class-   =unkwn n:class-   =adj
+
+\tx dunia ikiwa bado  mpya            kabisa.
+\mb dunia ikiwa bado  m-         =pya kabisa
+\ge world if    still CLASS 1-   =new very/completely
+\ps n     unkwn unkwn n:class-   =adj unkwn
+
+\ft Finally, they went to the camel there to ask him why he alone was lazy, he didn't do any work at all, the world was still not yet completed.
+
+\ref CamelStory.026
+\tx Lakini yeye mkorofi;           kila  anapoulizwa                              hujibu:       Nunduuu!
+\mb Lakini yeye m-         =korofi kila  a-  =na-     =po            =uliz=-wa    hu-   =jibu   nundu  =u-  =u-  =***
+\ge but    3S   CLASS 1-   =cruel  every 3S- =PRES-   =REL CLASS 16  =ask =-PASS  HAB-  =answer hump   =2S- =2S- =***
+\ps unkwn  pn   n:class-   =unkwn  unkwn agr-=v:tense-=v:class       =v   =-unkwn unkwn-=v      unkwn  =agr-=agr-=***
+
+\tx Wala    hajibu             kitu               kingine,
+\mb Wala    h-    =a-  =jibu   ki-         =tu    ki-         =ngine
+\ge however NEG-  =3S- =answer CLASS 7-    =thing CLASS 7-    =other
+\ps unkwn   unkwn-=agr-=v      n:class-    =n     n:class-    =adj
+
+\tx wasijue                       tena  la    kusema.
+\mb wa- =si-   =ju  =-e           tena  la    ku-        =sem=-a
+\ge 3P- =NEG-  =know=-SUBJUNCTIVE again NEG   INFINITIVE-=say=-???
+\ps agr-=unkwn-=v   =-v:tense     unkwn unkwn v:tense-   =v  =-unkwn
+
+\ft But that rude camel; whenever he was asked he always answered, “Huuump!” However he did not answer another thing, they didn't know what to say. 
+
+\ref CamelStory.027
+\tx Kila  mara     wao wakimwuliza,                 yeye hujibu:       Nunduuu!
+\mb kila  mara     wao wa- =ki-   =mw- =uliz=-a     yeye hu-   =jibu   nundu  =u-  =u-  =***
+\ge every occasion 3P  3P- =COND- =3S- =ask =-???   3S   HAB-  =answer hump   =2S- =2S- =***
+\ps unkwn n        pn  agr-=unkwn-=agr-=v   =-unkwn pn   unkwn-=v      unkwn  =agr-=agr-=***
+
+\tx Halafu     huwacheka.
+\mb halafu     hu-   =wa- =chek =-a
+\ge afterwards HAB-  =3P- =laugh=-???
+\ps unkwn      unkwn-=agr-=v    =-unkwn
+
+\ft Everytime they asked him, he always answered, “Huuump!” After, he always laughed at them. 
+
+
+\ref CamelStory.028
+\tx Hata  mwisho          wakachoka.
+\mb hata  mw-       =isho wa-         =ka-     =chok  =-a
+\ge even  CLASS 3-  =end  CLASS 2-    =NAR-    =fed-up=-???
+\ps unkwn unkwn-    =n    n:class-    =v:tense-=v     =-unkwn
+
+\ft Until finally they were fed up.  
+
+\ref CamelStory.029
+\tx Wakaenda                 kwa    mchawi            mkuu              wa                  jangwani,
+\mb wa- =ka-     =end=-a     kwa    m-         =chawi m-         =kuu   w-            =a    jangwa=-ni
+\ge 3P- =NAR-    =go =-???   so/for CLASS 1-   =magic CLASS 1-   =chief CLASS 1-      =of   desert=-at
+\ps agr-=v:tense-=v  =-unkwn unkwn  n:class-   =n     n:class-   =adj   prep:class-   =prep n     =-loc
+
+\tx wakamwuliza:                   Je,  ni haki  ngamia yule              kupiga                 uvivu
+\mb wa- =ka-     =mw- =uliz=-a     Je   ni haki  ngamia yu-         =le   ku-        =pig=-a     u-  =vivu
+\ge 3P- =NAR-    =3S- =ask =-???   Q    is fair  camel  CLASS 1-    =that INFINITIVE-=hit=-???   2S- =lazy
+\ps agr-=v:tense-=agr-=v   =-unkwn qmrk v  unkwn n      n:class-    =pn   v:tense-   =v  =-unkwn agr-=unkwn
+
+\tx siku zote,             sisi tukifanya               kazi kwa    kuwa
+\mb siku z-           =ote sisi tu- =ki-   =fany=-a     kazi kwa    kuwa
+\ge day  CLASS 10-    =all 1P   1P- =PRPT- =do  =-???   work so/for because
+\ps n    adj:class-   =adj pn   agr-=unkwn-=v   =-unkwn n    unkwn  unkwn
+
+\tx dunia ni bado  mpya            kabisa?
+\mb dunia ni bado  m-         =pya kabisa
+\ge world is still CLASS 1-   =new very/completely
+\ps n     v  unkwn n:class-   =adj unkwn
+
+\ft And then they went for the chief sorcerer in the desert, and they asked him, “Is it fair that the camel is lazy all day? We are working because the world is still not completed.” 
+
+\ref CamelStory.030
+\tx Akajibu:             Si     haki  kata  kidogo.
+\mb a-  =ka-     =jibu   si     haki  kata  kidogo
+\ge 3S- =NAR-    =answer is-not fair  ???   a-little
+\ps agr-=v:tense-=v      v      unkwn unkwn unkwn
+
+\ft He answered, “It is not fair a little.”
+
+\ref CamelStory.031
+\tx Wakasema:                Basi, umwambie                    wewe afanye
+\mb wa- =ka-     =sem=-a     Basi  u-  =mw- =ambi=-e           wewe a-  =fany=-e
+\ge 3P- =NAR-    =say=-???   okay  2S- =3S- =tell=-SUBJUNCTIVE 2S   3S- =do  =-SUBJUNCTIVE
+\ps agr-=v:tense-=v  =-unkwn unkwn agr-=agr-=v   =-v:tense     pn   agr-=v   =-v:tense
+
+\tx kazi, kwa    sababu sisi tukimwambia                  anatucheka
+\mb kazi  kwa    sababu sisi tu- =ki-   =mw- =ambi=-a     a-  =na-     =tu- =chek =-a
+\ge work  so/for reason 1P   1P- =COND- =3S- =tell=-???   3S- =PRES-   =1P- =laugh=-???
+\ps n     unkwn  n      pn   agr-=unkwn-=agr-=v   =-unkwn agr-=v:tense-=agr-=v    =-unkwn
+
+\tx tu;   anajibu:             nundu, nundu.
+\mb tu    a-  =na-     =jibu   nundu  nundu
+\ge just  3S- =PRES-   =answer hump   hump
+\ps unkwn agr-=v:tense-=v      unkwn  unkwn
+
+\ft And they said, “Okay you tell him to work, because if we tell him, he just laughs at us and answers, ‘Hump, hump.’ 
+
+\ref CamelStory.032
+\tx Hasemi                   neno jingine.
+\mb h-    =a-  =sem=-i       neno j-       =ingine
+\ge NEG-  =3S- =say=-CLASS 9 word CLASS 5- =other
+\ps unkwn-=agr-=v  =-n:class n    unkwn-   =adj
+
+\ft He doesn't say another word.”
+
+\ref CamelStory.033
+\tx Mchawi            akafikiri            kidogo,  halafu     akachukua
+\mb m-         =chawi a-  =ka-     =fikiri kidogo   halafu     a-  =ka-     =chuku=-a
+\ge CLASS 1-   =magic 3S- =NAR-    =think  a-little afterwards 3S- =NAR-    =take =-???
+\ps n:class-   =n     agr-=v:tense-=v      unkwn    unkwn      agr-=v:tense-=v    =-unkwn
+
+\tx mumunye  na   uvumbi     wa                  dunia mpya,
+\mb mumunye  na   u-  =vumbi w-            =a    dunia m-         =pya
+\ge calabash and  2S- =dust  CLASS 11-     =of   world CLASS 1-   =new
+\ps n        conj agr-=n     prep:class-   =prep n     n:class-   =adj
+
+\tx akaenda                  zake              kumtafuta                        ngamia yule
+\mb a-  =ka-     =end=-a     z-           =ake ku-        =m-  =tafut   =-a     ngamia yu-         =le
+\ge 3S- =NAR-    =go =-???   CLASS 10-    =3S  INFINITIVE-=3S- =look-for=-???   camel  CLASS 1-    =that
+\ps agr-=v:tense-=v  =-unkwn adj:class-   =agr v:tense-   =agr-=v       =-unkwn n      n:class-    =pn
+
+\tx aliyekuwa                                         mvivu.
+\mb a-  =li-     =ye           =ku-        =w =-a     m-         =vivu
+\ge 3S- =PAST-   =REL CLASS 1  =INFINITIVE-=be=-???   CLASS 1-   =lazy
+\ps agr-=v:tense-=v:class      =v:tense-   =v =-unkwn n:class-   =unkwn
+
+\ft The sorceror thought a little, and then he took a calabash and some dirt of the new world, and he went to look for that camel who was lazy. 
+
+
+\ref CamelStory.034
+\tx Akamkuta                       jangwani    peke  yake,           akila
+\mb a-  =ka-     =m-  =kut =-a     jangwa=-ni  peke  y-         =ake a-  =ki-   =l  =-a
+\ge 3S- =NAR-    =3S- =find=-???   desert=-at  alone CLASS 9-   =3S  3S- =PRPT- =eat=-???
+\ps agr-=v:tense-=agr-=v   =-unkwn n     =-loc unkwn n:class-   =agr agr-=unkwn-=v  =-unkwn
+
+\tx manyasi             ya               nyikani,  akiangalia                uso
+\mb ma-          =nyasi y-         =a    nyikani   a-  =ki-   =angali=-a     uso
+\ge CLASS 6  =PL-=reed  CLASS 9-   =of   wasteland 3S- =PRPT- =look  =-???   face
+\ps n:class-     =n     n:class-   =prep n         agr-=unkwn-=v     =-unkwn n
+
+\tx wake            katika kidimbwi.
+\mb w-         =ake katika ki-         =dimbwi
+\ge CLASS 14-  =3S  in     CLASS 7-    =pool
+\ps n:class-   =agr prep   n:class-    =n
+
+\ft And he found him in the desert by himself, he was eating reeds of the wasteland, and he was staring at his face in the pool.
+
+\ref CamelStory.035
+\tx Kwa            kuwa    ngamia si     mvivu             tu,
+\mb kwa            kuwa    ngamia si     m-         =vivu  tu
+\ge so/for/because because camel  is-not CLASS 1-   =lazy  just
+\ps unkwn          unkwn   n      v      n:class-   =unkwn unkwn
+
+\tx lakini ana       majivuno  vile  vile.
+\mb lakini a-  =na   majivuno  vile  vile
+\ge but    3S- =have arrogance also  also
+\ps unkwn  agr-=v    unkwn     unkwn unkwn
+
+\ft For the camel is not just lazy, but he has arrogance as well. 
+
+\ref CamelStory.036
+\tx Mchawi            akamwuliza:                    Je,  bwana  ngamia, nasikia
+\mb m-         =chawi a-  =ka-     =mw- =uliz=-a     Je   bwana  ngamia  na-     =siki=-a
+\ge CLASS 1-   =magic 3S- =NAR-    =3S- =ask =-???   Q    mister camel   PRES-   =hear=-???
+\ps n:class-   =n     agr-=v:tense-=agr-=v   =-unkwn qmrk unkwn  n       v:tense-=v   =-unkwn
+
+\tx nini  juu   yako,           kwamba hutaki               kufanya
+\mb nini  juu   y-         =ako kwamba hu-   =tak =-i       ku-        =fany=-a
+\ge what  about CLASS 9-   =2S  that   HAB-  =want=-CLASS 9 INFINITIVE-=do  =-???
+\ps unkwn unkwn n:class-   =agr unkwn  unkwn-=v   =-n:class v:tense-   =v   =-unkwn
+
+\tx kazi yo                yote,           hata  siku hizi           kama
+\mb kazi y-         =o     y-         =ote hata  siku hi  =-zi       kama
+\ge work CLASS 9-   =???   CLASS 9-   =all even  day  this=-CLASS 10 such-as
+\ps n    n:class-   =unkwn n:class-   =adj unkwn n    pn  =-unkwn    unkwn
+
+\tx dunia ni mpya       kabisa          bado?
+\mb dunia ni m-    =pya kabisa          bado
+\ge world is ???-  =new very/completely still
+\ps n     v  unkwn-=adj unkwn           unkwn
+
+\ft The sorcerer asked him, “Mr. Camel, what did I hear about you, that you don't want to do any work at all, not even these days when the world is not yet completely new?” 
+
+\ref CamelStory.037
+\tx Ngamia akajibu:             Nunduuuu!
+\mb ngamia a-  =ka-     =jibu   nundu  =u-  =u-  =u-  =***
+\ge camel  3S- =NAR-    =answer hump   =2S- =2S- =2S- =***
+\ps n      agr-=v:tense-=v      unkwn  =agr-=agr-=agr-=***
+
+\ft The camel answered, “Huuump!” 
+
+\ref CamelStory.038
+\tx Mchawi            akasema:                 Nadhani          ni afadhali
+\mb m-         =chawi a-  =ka-     =sem=-a     na-     =dhani   ni afadhali
+\ge CLASS 1-   =magic 3S- =NAR-    =say=-???   PRES-   =believe is better
+\ps n:class-   =n     agr-=v:tense-=v  =-unkwn v:tense-=v       v  unkwn
+
+\tx usiseme                      nundu kila  mara.
+\mb u-  =si-   =sem=-e           nundu kila  mara
+\ge 2S- =NEG-  =say=-SUBJUNCTIVE hump  every occasion
+\ps agr-=unkwn-=v  =-v:tense     unkwn unkwn n
+
+\ft The sorcerer said, “I believe it is better you don't say ‘hump’ every time.
+
+\ref CamelStory.039
+\tx Neno hili          litakudhuru.
+\mb neno hi  =-li      li-         =ta-     =ku- =dhuru
+\ge word this=-CLASS 5 CLASS 5-    =FUT-    =2S- =injure
+\ps n    pn  =-n:class v:class-    =v:tense-=agr-=v
+
+\ft This word will destroy you.
+
+\ref CamelStory.040
+\tx Sasa nataka               kujua                   kama       utakwenda
+\mb sasa na-     =tak =-a     ku-        =ju  =-a     kama       u-  =ta-     =kw-   =end=-a
+\ge now  PRES-   =want=-???   INFINITIVE-=know=-???   such-as/if 2S- =FUT-    =INF-  =go =-???
+\ps ***  v:tense-=v   =-unkwn v:tense-   =v   =-unkwn unkwn      agr-=v:tense-=unkwn-=v  =-unkwn
+
+\tx kazini    sasa hivi,         au   kama       unakataa?
+\mb kazi=-ni  sasa hi  =-vi      au   kama       u-  =na-     =kata      =-a
+\ge work=-at  now  this=-CLASS 8 or   such-as/if 2S- =PRES-   =???/refuse=-???
+\ps n   =-loc ***  pn  =-n:class conj unkwn      agr-=v:tense-=unkwn     =-unkwn
+
+\ft Now I want to know if you will go to work right now, or will you stay?”
+ 
+\ref CamelStory.041
+\tx Ngamia akasema:                 Nunduuu!
+\mb ngamia a-  =ka-     =sem=-a     nundu  =u-  =u-  =***
+\ge camel  3S- =NAR-    =say=-???   hump   =2S- =2S- =***
+\ps n      agr-=v:tense-=v  =-unkwn unkwn  =agr-=agr-=***
+
+\ft  The camel answered, “Huuump!”
+
+\ref CamelStory.042
+\tx Hapo  mchawi            mkuu              wa                  jangwani    akachukua
+\mb Hapo  m-         =chawi m-         =kuu   w-            =a    jangwa=-ni  a-  =ka-     =chuku=-a
+\ge then  CLASS 1-   =magic CLASS 1-   =chief CLASS 1-      =of   desert=-at  3S- =NAR-    =take =-???
+\ps unkwn n:class-   =n     n:class-   =adj   prep:class-   =prep n     =-loc agr-=v:tense-=v    =-unkwn
+
+\tx mumunye  lake            pamoja   na    uvumbi     wa                  dunia mpya,
+\mb mumunye  l-         =ake pamoja   na    u-  =vumbi w-            =a    dunia m-    =pya
+\ge calabash CLASS 5-   =3S  together with  2S- =dust  CLASS 11-     =of   world ???-  =new
+\ps n        n:class-   =agr unkwn    unkwn agr-=n     prep:class-   =prep n     unkwn-=adj
+
+\tx akaanza                    kucheza                 na    uchawi     wake.
+\mb a-  =ka-     =anz  =-a     ku-        =chez=-a     na    u-  =chawi w-         =ake
+\ge 3S- =NAR-    =begin=-???   INFINITIVE-=play=-???   with  2S- =magic CLASS 14-  =3S
+\ps agr-=v:tense-=v    =-unkwn v:tense-   =v   =-unkwn unkwn agr-=n     n:class-   =agr
+
+\ft Then the chief sorcerer of the desert took his calabash together with the dirt from the new earth and he started to play with his magic. 
+
+\ref CamelStory.043
+\tx Na   bwana  ngamia akazidi                kujiangalia
+\mb na   bwana  ngamia a-  =ka-     =zidi     ku-        =j-       =i           =angali=-a
+\ge and  mister camel  3S- =NAR-    =continue INFINITIVE-=CLASS 5- =CLASS 9     =look  =-???
+\ps conj unkwn  n      agr-=v:tense-=v        v:tense-   =unkwn-   =n:class     =v     =-unkwn
+
+\tx katika kidimbwi,           akijifurahisha
+\mb katika ki-         =dimbwi a-  =ki-         =j-       =i           =furah      =i         =-sh   =-a
+\ge in     CLASS 7-    =pool   3S- =CLASS 7-    =CLASS 5- =CLASS 9     =happiness  =CLASS 9   =-CAUS =-???
+\ps prep   n:class-    =n      agr-=n:class-    =unkwn-   =n:class     =v          =n:class   =-unkwn=-unkwn
+
+\tx moyo  kwa            ajili  ya               uzuri          wake.
+\mb moyo  kwa            ajili  y-         =a    u-       =zuri w-         =ake
+\ge heart so/for/because reason CLASS 9-   =of   CLASS 11-=good CLASS 11-  =3S
+\ps n     unkwn          unkwn  n:class-   =prep unkwn-   =adj  n:class-   =agr
+
+\ft And Mr. Camel continued to look at himself in the pool, and he thrilled his heart for his own sake. 
+
+\ref CamelStory.044
+\tx Ndivyo alivyofanya                              ukorofi          wa
+\mb Ndivyo a-  =li-     =vyo           =fany=-a     u-       =korofi w-            =a
+\ge thus   3S- =PAST-   =REL CLASS 8   =do  =-???   CLASS 11-=cruel  CLASS 11-     =of
+\ps unkwn  agr-=v:tense-=v:class       =v   =-unkwn unkwn-   =unkwn  prep:class-   =prep
+
+\tx kumchokoza                       mchawi            yule.
+\mb ku-        =m-  =chokoz  =-a     m-         =chawi yu-         =le
+\ge INFINITIVE-=3S- =irritate=-???   CLASS 1-   =magic CLASS 1-    =that
+\ps v:tense-   =agr-=v       =-unkwn n:class-   =n     n:class-    =pn
+
+\ft In this manner he did the brutal thing of angering that sorcerer. 
+
+\ref CamelStory.045
+\tx Lakini alipokuwa                                          akijitazama
+\mb lakini a-  =li-     =po            =ku-        =w =-a     a-  =ki-   =j-       =i           =tazam  =-a
+\ge but    3S- =PAST-   =REL CLASS 16  =INFINITIVE-=be=-???   3S- =PRPT- =CLASS 5- =CLASS 9     =inspect=-???
+\ps unkwn  agr-=v:tense-=v:class       =v:tense-   =v =-unkwn agr-=unkwn-=unkwn-   =n:class     =v      =-unkwn
+
+\tx hivi          katika maji                ya                  kidimbwi,           akaona
+\mb hi  =-vi      katika ma-          =ji    y-            =a    ki-         =dimbwi a-  =ka-     =on    =-a
+\ge this=-CLASS 8 in     CLASS 6  =PL-=water CLASS 6-      =of   CLASS 7-    =pool   3S- =NAR-    =notice=-???
+\ps pn  =-n:class prep   n:class-     =n     prep:class-   =prep n:class-    =n      agr-=v:tense-=v     =-unkwn
+
+\tx kwamba mgongo            wake            ulianza                    kuvimba
+\mb kwamba m-         =gongo w-         =ake u-  =li-     =anz  =-a     ku-        =vimb  =-a
+\ge that   CLASS 3-   =back  CLASS 3-   =3S  2S- =PAST-   =begin=-???   INFINITIVE-=expand=-???
+\ps unkwn  n:class-   =n     n:class-   =agr agr-=v:tense-=v    =-unkwn v:tense-   =v     =-unkwn
+
+\tx kwa            ajili  ya                  uchawi            ule.
+\mb kwa            ajili  y-            =a    u-         =chawi u-       =le
+\ge so/for/because reason CLASS 9-      =of   CLASS 11-  =magic CLASS 11-=that
+\ps unkwn          unkwn  prep:class-   =prep n:class-   =n     unkwn-   =pn
+
+\ft But when he was inspecting himself there in the water of the pool, he saw that his back started to expand as a result of that magic.
+
+\ref CamelStory.046
+\tx Mgongo     wake            ukavimba,                   ukavimba,
+\mb m-  =gongo w-         =ake u-  =ka-     =vimb  =-a     u-  =ka-     =vimb  =-a
+\ge 3S- =back  CLASS 3-   =3S  2S- =NAR-    =expand=-???   2S- =NAR-    =expand=-???
+\ps agr-=n     n:class-   =agr agr-=v:tense-=v     =-unkwn agr-=v:tense-=v     =-unkwn
+
+\tx hata       mwisho          ukawa                   nundu kweli kweli.
+\mb hata       mw-       =isho u-         =ka  =-wa    nundu kweli kweli
+\ge even/until CLASS 3-  =end  CLASS 3-   =live=-PASS  hump  truly truly
+\ps unkwn      unkwn-    =n    v:class-   =v   =-unkwn unkwn unkwn unkwn
+
+\ft His back expanded, and expanded, until finally it was truly a hump.
+
+\ref CamelStory.047
+\tx Akajaribu            kuiondoa                                   asiweze.
+\mb a-  =ka-     =jaribu ku-        =i           =ondo      =-a     a-  =si-   =wez    =-e
+\ge 3S- =NAR-    =try    INFINITIVE-=CLASS 9     =get-rid-of=-???   3S- =NEG-  =be-able=-SUBJUNCTIVE
+\ps agr-=v:tense-=v      v:tense-   =n:class     =v         =-unkwn agr-=unkwn-=v      =-v:tense
+
+\ft And he tried to get rid of it; he was not able. 
+
+\ref CamelStory.048
+\tx Akanung'unika                  kwa            mchawi,           akasema:
+\mb a-  =ka-     =nung'unik=-a     kwa            m-         =chawi a-  =ka-     =sem=-a
+\ge 3S- =NAR-    =complain =-???   so/for/because CLASS 1-   =magic 3S- =NAR-    =say=-???
+\ps agr-=v:tense-=v        =-unkwn unkwn          n:class-   =n     agr-=v:tense-=v  =-unkwn
+
+\tx Sasa  umeniharibu                kabisa.
+\mb sasa  u-  =me-     =ni- =haribu  kabisa
+\ge now   2S- =PERFT-  =1S- =destroy very/completely
+\ps unkwn agr-=v:tense-=agr-=v       unkwn
+
+\ft And he complained to the sorcerer, and he said, “Now you have destroyed me completely. 
+
+
+\ref CamelStory.049
+\tx Sitaweza                        kufanya                 kazi yo                   yote
+\mb si-    =ta-     =wez    =-a     ku-        =fany=-a     kazi y-            =o     y-            =ote
+\ge 1S/NEG-=FUT-    =be-able=-???   INFINITIVE-=do  =-???   work CLASS 9-      =???   CLASS 9-      =all
+\ps unkwn- =v:tense-=v      =-unkwn v:tense-   =v   =-unkwn n    prep:class-   =unkwn prep:class-   =adj
+
+\tx namna hii.
+\mb namna h-    =i           =i
+\ge way   NEG-  =CLASS 9     =CLASS 9
+\ps n     unkwn-=n:class     =n:class
+
+\ft I will not be able to do any work like this.”
+
+\ref CamelStory.050
+\tx Lakini mchawi            akajibu:             Utaweza                      tu.
+\mb lakini m-         =chawi a-  =ka-     =jibu   u-  =ta-     =wez    =-a     tu
+\ge but    CLASS 1-   =magic 3S- =NAR-    =answer 2S- =FUT-    =be-able=-???   just
+\ps unkwn  n:class-   =n     agr-=v:tense-=v      agr-=v:tense-=v      =-unkwn unkwn
+
+\ft But the sorcerer answered. “You will just be able to.
+
+\ref CamelStory.051
+\tx Itakufaa                                  kwa            chakula            cha               akiba,
+\mb i           =ta-     =ku- =fa     =-a     kwa            ch-         =akula ch-         =a    akiba
+\ge CLASS 9     =FUT-    =2S- =benefit=-???   so/for/because CLASS 7-    =food  CLASS 7-    =of   storage
+\ps n:class     =v:tense-=agr-=v      =-unkwn unkwn          n:class-    =n     n:class-    =prep unkwn
+
+\tx utumie                 wakati                  wa                  kufanya
+\mb u-  =tumi=-e           w-         =akati       w-            =a    ku-        =fany=-a
+\ge 2S- =use =-SUBJUNCTIVE CLASS 11-  =opportunity CLASS 11-     =of   INFINITIVE-=do  =-???
+\ps agr-=v   =-v:tense     n:class-   =unkwn       prep:class-   =prep v:tense-   =v   =-unkwn
+
+\tx kazi jangwani.
+\mb kazi jangwa=-ni
+\ge work desert=-at
+\ps n    n     =-loc
+
+\ft It will benefit you for food storage; you should use this opportunity to work in the desert. 
+
+\ref CamelStory.052
+\tx Na   usipofanya                     haraka ya                  kwenda            kazini
+\mb na   u-  =si-   =po-   =fany=-a     haraka y-            =a    kw-   =end=-a     kazi=-ni
+\ge and  2S- =NEG-  =COND- =do  =-???   haste  CLASS 9-      =of   INF-  =go =-???   work=-at
+\ps conj agr-=unkwn-=unkwn-=v   =-unkwn unkwn  prep:class-   =prep unkwn-=v  =-unkwn n   =-loc
+
+\tx sasa  hivi,         nitaharibu            kichwa            chako            vile  vile.
+\mb sasa  hi  =-vi      ni- =ta-     =haribu  ki-         =chwa ch-         =ako vile  vile
+\ge now   this=-CLASS 8 1S- =FUT-    =destroy CLASS 7-    =head CLASS 7-    =2S  also  also
+\ps unkwn pn  =-n:class agr-=v:tense-=v       n:class-    =n    n:class-    =agr unkwn unkwn
+
+\ft And if you don't quickly to go do work right now, I will destroy your head as well.” 
+
+\ref CamelStory.053
+\tx Ndiyo maana ngamia ana       nundu siku hizi,          na   kazi
+\mb ndiyo maana ngamia a-  =na   nundu siku hi  =-zi       na   kazi
+\ge Yes   so    camel  3S- =have hump  day  this=-CLASS 10 and  work
+\ps unkwn unkwn n      agr-=v    unkwn n    pn  =-unkwn    conj n
+
+\tx anaifanya                              kwa            shida      tu,   bila    kupenda.
+\mb a-  =na-     =i           =fany=-a     kwa            shida      tu    bila    ku-        =pend=-a
+\ge 3S- =PRES-   =CLASS 9     =do  =-???   so/for/because difficulty just  without INFINITIVE-=like=-???
+\ps agr-=v:tense-=n:class     =v   =-unkwn unkwn          unkwn      unkwn unkwn   v:tense-   =v   =-unkwn
+
+\ft That is why it is because the camel has a hump these days, and he just works with difficulty, without liking.
+
+\ref CamelStory.054
+\tx Na   iwapo anafanya,                 hana             haraka.
+\mb na   iwapo a-  =na-     =fany=-a     h-    =a-  =na   haraka
+\ge and  when  3S- =PRES-   =do  =-???   NEG-  =3S- =have haste
+\ps conj unkwn agr-=v:tense-=v   =-unkwn unkwn-=agr-=v    unkwn
+
+\ft And whenever he does something, he doesn't have haste. 
+\dt 27/Oct/2004
+
+\id Luke 2.1
+\ref Luke_2.1
+\tx 1 Siku zile,       tangazo      rasmi    lilitolewa                na   Kaisari
+\mb 1 siku zi-   =le   tangazo      rasmi    li-   =li-  =tolewa       na   Kaisari
+\ge 1 day  C10-  =that proclamation official C5-   =PAST-=be published with Caesar
+\ps 1 n    n.cls-=pron n            adj      n.cls-=tns- =v            prep n
+
+\tx Augusto  kuwataka                watu         wote       chini
+\mb Augusto  ku- =wa-   =tak =-a     wa-   =tu    w-    =ote chini
+\ge Augustus INF-=3P-   =want=-???   C2-   =thing C2-   =all humble
+\ps prop     tns-=v.pfx-=v   =-v.sfx n.cls-=n     n.cls-=adj adj
+
+\tx ya          utawala              wake        wajiandikishe.
+\mb y-    =a    u-    =tawal =-a     w-    =ake
+\ge C6-   =of   C14-  =govern=-???   C2-   =3S
+\ps n.cls-=prep n.cls-=v     =-v.sfx n.cls-=pron
+
+\ft those days an official proclamation was published with Caesar Augustus
+\nasb Now in those days a decree went out from Caesar Augustus, that a census be taken of all the
+inhabited earth.
+\ref Luke_2.2
+\tx 2 Kuandikishwa                   huku kulikuwa mara     ya kwanza,
+\mb 2 ku- =andik=-i    =-sh  =-wa    huku          mara        kwanza
+\ge 2 INF-=write=-C9   =-CAUS=-PASS  here          occasion    first
+\ps 2 tns-=v    =-n.cls=-mood=-v.sfx adv           n           adj
+
+\tx wakati        Kirenio   alipokuwa                            mkuu
+\mb wakati        Kirenio   a-    =li-  =po-     =ku- =w =-a     m-    =kuu
+\ge point of time Quirinius 3S-   =PAST-=REL(16)-=INF-=be=-???   C1-   =chief
+\ps n             prop      v.pfx-=tns- =rel-    =tns-=v =-v.sfx n.cls-=adj
+
+\tx wa          mkoa   wa          Siria.
+\mb w-    =a    koa    w-    =a    Siria
+\ge C1-   =of   region C3-   =of   Syria
+\ps n.cls-=prep n      n.cls-=prep prop
+
+\ft was written here ... first time 
+\nasb This was the first census taken while Quirinius was governor of Syria.
+\ref Luke_2.3
+\tx 3 Basi, wote       waliohusika                     walikwenda
+\mb 3 basi  w-    =ote wa-   =li-  =husik      =-a     wa-   =li-  =kw- =end=-a
+\ge 3 okay  C2-   =all 3P-   =PAST-=be involved=-???   3P-   =PAST-=INF-=go =-???
+\ps 3 part  n.cls-=adj v.pfx-=tns- =v          =-v.sfx v.pfx-=tns- =tns-=v  =-v.sfx
+
+\tx kujiandikisha,              kila mtu    katika mji  wake.
+\mb ku- =ji-   =andikish=-a     kila mtu    katika mji  w-    =ake
+\ge INF-=slef- =register=-???   each person in     city C1-   =3S
+\ps tns-=v.pfx-=v       =-v.sfx adj  n      prep   n    n.cls-=pron
+
+\ft Okay, everyone was involved to go to register, each person in his city.
+\nasb And everyone was on his way to register for the census, each to his own city.
+\ref Luke_2.4a
+\tx 4 Yosefu pia  alifanya                 safari  kutoka mjini       Nazareti
+\mb 4 Yosefu pia  a-    =li-  =fany=-a     safari  kutoka mji =-ni    Nazareti
+\ge 4 Joseph also 3S-   =PAST-=do  =-???   journey from   city=-at    Nazarath
+\ps 4 prop   adv  v.pfx-=tns- =v   =-v.sfx n       prep   n   =-postp prop
+
+\tx mkoani        Galilaya.
+\mb koa   =-ni    Galilaya
+\ge region=-at    Galilee
+\ps n     =-postp prop
+
+\ft Joseph also did a journey from the city at Nazaret in the region of Galilee,
+\nasb Joseph also went up from Galilee, from the city of Nazareth,
+\ref Luke_2.4b
+\tx Kwa  kuwa    alikuwa                     wa          jamaa  na   ukoo
+\mb kwa  kuwa    a-    =li-  =ku- =w =-a     w-    =a    jamaa  na   ukoo
+\ge so   because 3S-   =PAST-=INF-=be=-???   C2-   =of   family and  descent
+\ps conj conj    v.pfx-=tns- =tns-=v =-v.sfx n.cls-=prep n      conj n
+
+\tx wa          Daudi alikwenda                    mjini       Bethlehemu
+\mb w-    =a    Daudi a-    =li-  =kw- =end=-a     mji =-ni    Bethlehemu
+\ge C2-   =of   David 3S-   =PAST-=INF-=go =-???   city=-at    Bethlehem
+\ps n.cls-=prep prop  v.pfx-=tns- =tns-=v  =-v.sfx n   =-postp prop
+
+\tx mkoani        Yuda  alikozaliwa
+\mb mkoa  =-ni    Yuda  a-    =li-   =*koz=-a    =-li   =-wa
+\ge region=-at    Judea 3S-   =C5-   =*** =-???  =-C5   =-PASS
+\ps n     =-postp prop  v.pfx-=n.cls-=*** =-v.sfx=-n.cls=-v.sfx
+
+\tx Mfalme       Daudi.
+\mb m-    =falme Daudi
+\ge C1-   =king  David
+\ps n.cls-=n     prop
+
+\ft because he was of family and descent of David he went to the city at Bethlehem in the region
+of Judea ... king David.
+\nasb to Judea, to the city of David which is called Bethlehem, because (4) he was of the house and
+family of David,
+\ref Luke_2.5
+\tx 5 Alikwenda                    kujiandikisha               pamoja   na
+\mb 5 a-    =li-  =kw- =end=-a     ku- =ji-   =andikish=-a     pamoja   na
+\ge 5 3S-   =PAST-=INF-=go =-???   INF-=slef- =register=-???   together with
+\ps 5 v.pfx-=tns- =tns-=v  =-v.sfx tns-=v.pfx-=v       =-v.sfx adv      prep
+
+\tx mchumba          wake        Maria ambaye alikuwa
+\mb m-    =chumba    w-    =ake  Maria ambaye a-    =li-  =ku- =w =-a
+\ge C1-   =fiancééee C1-   =3S   Maria who    3S-   =PAST-=INF-=be=-???
+\ps n.cls-=n         n.cls-=pron prop  pron   v.pfx-=tns- =tns-=v =-v.sfx
+
+\tx mja              mzito.
+\mb m-    =ja        mzito
+\ge C1-   =new-comer heavy
+\ps n.cls-=n         adj
+
+\ft He went to regiter himself together with his fiancee Maria, who was heavy with a new-comer.
+\nasb in order to register along with Mary, who was engaged to him, and was with child.
+\dt 29/Oct/2004
+
+\id Maria
+\title Maria Mwaminifu
+\ref Maria.001
+\tx Hapo zamani         za          kale   palikuwa      na
+\mb hapo zamani         z-    =a    kale   *paliku=-wa    *na
+\ge then a.long.time.agocl.10-=of   earlier***    =-PASS  ***
+\ps adv  adv            class-=prep adj    ***    =-tense ***
+
+\tx msichana      mmoja       aliyeitwa                  Maria.
+\mb m-   =sichana m-    =moja a-     =li-   =yeit=-wa    *Maria
+\ge cl.1-=girl    cl.1- =one  3S-    =past- =name=-PASS  Mary
+\ps pref-=n       class-=num  v.pref-=tense-=v   =-tense n
+
+\ft A long time ago there was a girl named Mary
+\ref Maria.002
+\tx Maria  alikuwa                        msichana      mzuri      sana.
+\mb *Maria a-     =li-   =ku-    =w =-a   m-   =sichana m-   =zuri *sana
+\ge Mary   3S-    =past- =INF-   =be=-??? cl.1-=girl    cl.1-=good very
+\ps n      v.pref-=tense-=v.pref-=v =-??? pref-=n       pref-=adj  adv
+
+\ft Mary was a very good girl.
+\ref Maria.003
+\tx Alimwabudu                                           Mungu; aliheshimu   
+            wazazi;
+
+\mb a-     =li-   =m-=wa-=*budu                          Mungu  a-     =li- =
+   *heshimu wa-  =z-    =a-     =z-    =*i
+
+\ge 3S-    =past-        =***                            God    3S-    =
+past- =***      cl.2-=cl.10-=3S-    =cl.10-=***
+
+\ps v.pref-=tense-       =***                            n      v.pref-=
+tense-=***      pref-=class-=v.pref-=class-=***
+
+\tx alifanya  kila  kitu  vizuri.
+\mb *alifanya kila  kitu  vi-  =zuri
+\ge ***       every thing cl.8-=good
+\ps ***       adv   n     pref-=adj
+
+\ft She worshipped God, she respected her parents, and she did
+everything well.
+\ref Maria.004
+\tx Siku moja Maria  alikuwa                        akifagia
+\mb siku moja *Maria a-     =li-   =ku-    =w =-a   a-     =*kifagi=-a
+\ge day  one  Mary   3S-    =past- =INF-   =be=-??? 3S-    =***    =-???
+\ps n    num  n      v.pref-=tense-=v.pref-=v =-??? v.pref-=***    =-???
+
+\tx nyumba, malaika       wa   Mungu
+\mb nyumba  m-   =*alaika wa   *Mungu
+\ge house   cl.1-=angel   of   God
+\ps n       pref-=n       prep n
+
+\tx akatokea  akamwambia
+\mb *akatokea *akamwambia
+\ge ***       ***
+\ps ***       ***
+
+\ft One day as Mary was sweeping the house, the angel of the
+Lord appeared and told her,
+\ref Maria.005
+\tx Ì½Sikiza Maria, utapata             mtoto       na
+\mb sikiza   *Maria u-     =*tapat=-a   m-   =*toto *na
+\ge listen   Mary   2S-    =***   =-??? cl.1-=child and
+\ps v        n      v.pref-=***   =-??? pref-=n     conj
+
+\tx utamwita                     Yesu, na   yeye  atakua
+\mb u-     =ta-    =mw-=*it=-a   *Yesu *na  *yeye *atakua
+\ge 2S-    =FUT-       =***=-??? Jesus and  3S    ***
+\ps v.pref-=tense-  =***   =-??? n     conj n     ***
+
+\tx mwokozi       wa   dunia.
+\mb mw-   =okozi  *wa  *dunia
+\ge cl.1- =savior of   world
+\ps class-=n      prep n
+
+\ft "Listen, Mary, you will have a child and you will call him
+Jesus, and he will be the Savior of the world."
+\ref Maria.006
+\tx Maria  aliogopa  sana akamwambia
+\mb *Maria *aliogopa sana *akamwambia
+\ge Mary   ***       very ***
+\ps n      ***       adv  ***
+
+\tx malaika
+\mb m-   =*alaika
+\ge cl.1-=angel
+\ps pref-=n
+
+\ft Maria was afraid and told the angel,
+\ref Maria.007
+\tx Lakini  mimi bado  sijaolewa.
+\mb *Lakini mimi *bado *sijaolewa
+\ge but     I    ***   ***
+\ps conj    pro  ***   ***
+
+\tx Nitawezaje  pata  mtoto?
+\mb *Nitawezaje *pata m-    =toto
+\ge ***         ***   cl.1- =child
+\ps ***         ***   class-=n
+
+\ft "But I am still not married.  How will I get a child?"
+\ref Maria.008
+\tx malaika       akamwambia  usikajali, Mungu
+\mb m-    =alaika *akamwambia *usikajali *Mungu
+\ge cl.1- =angel  ***         ***        God
+\ps class-=n      ***         ***        n
+
+\tx atafanya  yote.
+\mb *atafanya y-    =ote
+\ge ***       cl.9- =all
+\ps ***       class-=adj
+
+\ft The angel told her, "Don't worry.  God will take care of
+everything."
+\ref Maria.009
+\tx Maria  akaenda  akamwambia  Yusufu
+\mb *Maria *akaenda *akamwambia *Yusufu
+\ge Mary   ***      ***         Joseph
+\ps n      ***      ***         n
+
+\tx vila  malaika      alimwambia.
+\mb *vila m-  =*alaika *alimwambia
+\ge ***   ***-=angel   ***
+\ps ***   ***-=n       ***
+
+\ft Mary went and told Joseph what the angel had told her.
+\ref Maria.010
+\tx Yusufu  akommbia,            "ÌˆAla, unanidanganya."
+\mb *Yusufu a-     =*kommbi=-a   *Ala    *unanidanganya
+\ge Joseph  3S-    =***    =-??? ***     ***
+\ps n       v.pref-=***    =-??? ***     ***
+
+\ft Joseph told her, "Don't lie to me."
+\ref Maria.011
+\tx Yusufu  alitaka  kumwacha  Maria;
+\mb *Yusufu *alitaka *kumwacha *Maria
+\ge Joseph  ***      ***       Mary
+\ps n       ***      ***       n
+
+\tx hakutaka                      kumwoa.
+\mb ha-  =ku-    =ta-   =*k =-a   *kumwoa
+\ge neg.-=INF-   =FUT-  =***=-??? ***
+\ps pref-=v.pref-=tense-=***=-??? ***
+
+\ft Joseph wanted to leave Mary; he did not want to marry her.
+\ref Maria.012
+\tx Usiku  Yusufu  alipokua  a   kilala
+\mb *Usiku *Yusufu *alipokua *a  *kilala
+\ge ***    Joseph  ***       *** ***
+\ps ***    n       ***       *** ***
+
+\tx malaika      wa   Mungu  akamtokea  kwa
+\mb m-  =*alaika *wa  *Mungu *akamtokea *kwa
+\ge ***-=angel   of   God    ***        ***
+\ps ***-=n       prep n      ***        ***
+
+\tx ndoto  akamwambia,
+\mb *ndoto *akamwambia
+\ge ***    ***
+\ps ***    ***
+
+\ft At night, as Joseph was sleeping, and angel of God appeared
+to him in his dreams and told him,
+\ref Maria.013
+\tx Ì†Sikiza Yusufu, yote       Maria
+\mb *Sikiza  *Yusufu y-    =ote *Maria
+\ge listen   Joseph  cl.9- =all Mary
+\ps v        n       class-=adj n
+
+\tx aliyokuambia  ni  kweli
+\mb *aliyokuambia *ni *kweli
+\ge ***           is  true
+\ps ***           v   adj
+
+\ft "Listen, Joseph, all that Mary told you is true
+\ref Maria.014
+\tx na   ni  lazima  utamuwoa  kwa  sababu
+\mb *na  *ni *lazima *utamuwoa *kwa *sababu
+\ge and  is  ***     ***       ***  ***
+\ps conj v   ***     ***       ***  ***
+
+\tx mtoto        huyo  atakuwa  mwokozi
+\mb m-    =toto  *huyo *atakuwa mw-   =okozi
+\ge cl.1- =child ***   ***      cl.1- =savior
+\ps class-=n     ***   ***      class-=n
+
+\tx wa   dunia.
+\mb *wa  *dunia
+\ge of   world
+\ps prep n
+
+\ft and you must marry her because her child will be the savior
+of the world.
+\ref Maria.015
+\tx Mwisho.
+\mb *Mwisho
+\ge end
+\ps n
+
+\ft The end.
+\dt 29/Oct/2004
+
+\id Market story
+\nt This is the story that we elicited from our LRP.
+\title Swahili market story
+\ref Market story.001
+\tx jumamosi iliyopita nilienda                sokoni        kununua,
+\mb jumamosi iliyopita ni-   =li-  =end=-a     soko  =-ni    ku- =nunu=-a
+\ge Saturday last      1S-   =PAST-=go =-???   market=-at    INF-=buy =-???
+\ps n        adj       v.pfx-=tns- =v  =-v.sfx n     =-postp tns-=v   =-v.sfx
+
+\ft Last Saturday I went to the market to buy...
+\ref Market story.002
+\tx bidhaa kadhaa         ambazo mama yangu       alinituma.
+\mb bidhaa kadha  =-a     ambazo mama y-    =angu a-    =li-  =ni-   =tuma
+\ge goods  several=-???   which  mom  C6-   =1S   3S-   =PAST-=1S-   =send
+\ps n      adj    =-v.sfx pro    n    n.cls-=pron v.pfx-=tns- =v.pfx-=v
+
+\ft ...several goods that my mom sent me for. 
+\ref Market story.003
+\tx nilinunua                samaki mmoja       mkubwa,
+\mb ni-   =li-  =nunu=-a     samaki m-    =moja m-    =kubwa
+\ge 1S-   =PAST-=buy =-???   fish   C1-   =one  C1-   =big
+\ps v.pfx-=tns- =v   =-v.sfx n      n.cls-=num  n.cls-=adj
+
+\ft I bought one big fish,
+\ref Market story.004
+\tx nikanunua               machungua      mbili, ndizi  nne,
+\mb ni-   =ka- =nunu=-a     ma-   =chungua mbili  ndizi  nne
+\ge 1S-   =NAR-=buy =-???   C6-   =orange  two    banana four
+\ps v.pfx-=tns-=v   =-v.sfx n.cls-=n       num    n      num
+
+\ft I bought two oranges, four bananas
+\ref Market story.005
+\tx na   pia  nikanunua               kuku    moja, aliyenenepa.
+\mb na   pia  ni-   =ka- =nunu=-a     kuku    moja  a-    =li-  =ye-    =nenep      =-a
+\ge and  also 1S-   =NAR-=buy =-???   chicken one   3S-   =PAST-=REL(1)-=gain weight=-???
+\ps conj adv  v.pfx-=tns-=v   =-v.sfx n       num   v.pfx-=tns- =rel-   =v          =-v.sfx
+
+\ft and I also bought one chicken, which was fat.
+\ref Market story.006
+\tx baadaye    nikaona                   nguo    nzuri ambayo
+\mb baadaye    ni-   =ka- =on    =-a     nguo    nzuri ambayo
+\ge afterwards 1S-   =NAR-=notice=-???   9 cloth good  which
+\ps adv        v.pfx-=tns-=v     =-v.sfx n       adj   pro
+
+\tx ilikuwa                  inauzwa                  sokoni,
+\mb i-    =li-  =ku- =w =-a  i-    =na-  =uz  =-wa    soko  =-ni
+\ge C9-   =PAST-=INF-=be=-???C9-    PRES-=sell=-PASS  market=-at
+\ps n.cls-=tns- =tns-=v =-v.sn.cls- tns- =v   =-v.sfx n     =-postp
+
+\ft Afterwards I noticed a nice dress which was being sold at the market.
+\ref Market story.007
+\tx ilikuwa                     rangi    nyekundu      na   maua          samawati,
+\mb i-    =li-  =ku- =w =-a     rangi    ny-   =ekundu na   ma-   =ua     samawati
+\ge C9-   =PAST-=INF-=be=-???   9 colour C9-   =red    with C6-   =flower blue
+\ps n.cls-=tns- =tns-=v =-v.sfx n        n.cls-=adj    prep n.cls-=n      adj
+
+\ft It was read in color with blue flowers.
+\ref Market story.008
+\tx na   nikapendezwa               nayo             na   nikainunua.
+\mb na   ni-   =ka- =pendez =-wa    na-  =y-    =*o  na   ni-   =ka- =i-    =nunu=-a
+\ge and  1S-   =NAR-=attract=-PASS  PRES-=C6-   =*** and  1S-   =NAR-=C9-   =buy =-???
+\ps conj v.pfx-=tns-=v      =-v.sfx tns- =n.cls-=*** conj v.pfx-=tns-=n.cls-=v   =-v.sfx
+
+\ft and I was attracted and I bought it.
+\ref Market story.009
+\tx bei   yake        ilikuwa                     shilingi   ishirini  kisha
+\mb bei   y-    =ake  i-    =li-  =ku- =w =-a     shilingi   ishirini.
+\ge price C6-   =3S   C9-   =PAST-=INF-=be=-???   9 shilling twenty
+\ps n     n.cls-=pron n.cls-=tns- =tns-=v =-v.sfx n          num
+\ft His price was 20 Shilling.
+\ref Market story.010
+\tx kisha      nikaenda               kununua               mahindi      na
+\mb kisha      ni-   =ka- =end=-a     ku-      =nunu=-a     ma-   =hindi na
+\ge afterwards 1S-   =NAR-=go =-???   PAST/NEG-=buy =-???   C6-   =corn  and
+\ps adv        v.pfx-=tns-=v  =-v.sfx tns-     =v   =-v.sfx n.cls-=n     conj
+
+\tx maharagwe,
+\mb ma-   =haragwe
+\ge C6-   =bean
+\ps n.cls-=n
+
+\ft Afterwards I went to buy corn and beans.
+\ref Market story.011
+\tx nikanunua               mahindi      kilo moja na   maharagwe kilo mbili.
+\mb ni-   =ka- =nunu=-a     ma-   =hindi kilo moja na   haragwe   kilo mbili
+\ge 1S-   =NAR-=buy =-???   C6-   =corn  kilo one  and  bean      kilo two
+\ps v.pfx-=tns-=v   =-v.sfx n.cls-=n     n    num  conj n         n    num
+
+\ft I bought one kilo of corn and two kilos of beans.
+\ref Market story.013
+\tx kikapu        changu      kilikuwa                    kidogo.
+\mb ki-   =kapu   ch-   =angu ki-   =li-  =ku- =w =-a     ki-   =dogo
+\ge C7-   =basket C7-   =1S   C7-   =PAST-=INF-=be=-???   C7-   =little
+\ps n.cls-=n      n.cls-=pron n.cls-=tns- =tns-=v =-v.sfx n.cls-=adj
+
+\ft My basket was too little.
+\ref Market story.014
+\tx nikaenda               nyumbani      baada ya          kununua          hivyo
+\mb ni-   =ka- =end=-a     nyumba=-ni    baada y-    =a    ku- =nunu=-a     hicho
+\ge 1S-   =NAR-=go =-???   house =-at    after C9-   =of   INF-=buy =-???   that
+\ps v.pfx-=tns-=v  =-v.sfx n     =-postp prep  n.cls-=prep tns-=v   =-v.sfx pron
+
+\tx vitu         vidogo.
+\mb vi-   =tu    vi-   =dogo
+\ge C8-   =thing C8-   =little
+\ps n.cls-=n     n.cls-=adj
+
+\ft I went home after buying that few things.
+\dt 25/Oct/2004
+
+\id Market story
+\ref Market story.001
+\tx jumamosi iliyopita nilienda                sokoni
+\mb jumamosi iliyopita ni-   =li-  =end=-a     soko  =-ni
+\ge Saturday last      1S-   =PAST-=go =-???   market=-at
+\ps n        adj       v.pfx-=tns- =v  =-v.sfx n     =-postp
+
+\tx kununua,
+\mb ku- =nunu  =a
+\ge INF-=buy   =of
+\ps tns-=v     =prep
+
+\ft
+\ref Market story.002
+\tx bidhaa kadhaa         ambazo mama yangu
+\mb bidhaa kadha  =-a     ambazo mama y-    =angu
+\ge goods  several=-???   which  mom  C6-   =1S
+\ps n      adj    =-v.sfx pro    n    n.cls-=pron
+
+\tx alinituma.
+\mb a-    =li-  =ni-   =tuma
+\ge 3S-   =PAST-=1S-   =send
+\ps v.pfx-=tns- =v.pfx-=v
+
+\ft
+\ref Market story.003
+\tx nilinunua                samaki mmoja       mkubwa,
+\mb ni-   =li-  =nunu=-a     samaki m-    =moja m-    =kubwa
+\ge 1S-   =PAST-=buy =-???   fish   C1-   =one  C1-   =big
+\ps v.pfx-=tns- =v   =-v.sfx n      n.cls-=num  n.cls-=adj
+
+\ft
+\ref Market story.004
+\tx nikanunua               machungua      mbili,
+\mb ni-   =ka- =nunu=-a     ma-   =chungua mbili
+\ge 1S-   =NAR-=buy =-???   C6-   =orange  two
+\ps v.pfx-=tns-=v   =-v.sfx n.cls-=n       num
+
+\ft
+\ref Market story.005
+\tx ndizi  nne,
+\mb ndizi  nne
+\ge banana four
+\ps n      num
+
+\ft
+\ref Market story.006
+\tx napia      nikanunua               kuku    moja,
+\mb na-  =pia  ni-   =ka- =nunu=-a     kuku    moja
+\ge PRES-=also 1S-   =NAR-=buy =-???   chicken one
+\ps tns- =adv  v.pfx-=tns-=v   =-v.sfx n       num
+
+\ft
+\ref Market story.007
+\tx aliyenenepa.
+\mb a-    =li-  =ye-    =nenepa
+\ge 3S-   =PAST-=REL(1)-=gain weight
+\ps v.pfx-=tns- =rel-   =v
+
+\ft
+\ref Market story.008
+\tx baadaye    nikaona                   nguo    nzuri ambayo ili
+\mb baadaye    ni-   =ka- =on    =-a     nguo    nzuri ambayo ili
+\ge afterwards 1S-   =NAR-=notice=-???   9 cloth good  which  in order that
+\ps adv        v.pfx-=tns-=v     =-v.sfx n       adj   pro    conj
+
+\tx kwenosa           sokoni,
+\mb kw- =*enos=-a     soko  =-ni
+\ge INF-=***  =-???   market=-at
+\ps tns-=***  =-v.sfx n     =-postp
+
+\ft
+\ref Market story.009
+\tx ilikuwa           rangi    nyekundu,
+\mb i-    =li-  =kuwa rangi    ny-   =ekundu
+\ge C9-   =PAST-=grow 9 colour C9-   =red
+\ps n.cls-=tns- =v    n        n.cls-=adj
+
+\ft
+\ref Market story.010
+\tx na   maua          samawati,
+\mb na   ma-   =ua     samawati
+\ge and  C6-   =flower blue
+\ps conj n.cls-=n      adj
+
+\ft
+\ref Market story.011
+\tx na   nikapendezwa                  nayo             na   nikainunua.
+\mb na   ni-   =ka- =pend  =*ez=-wa    na-  =y-    =*o  na   ni-   =ka- =i-    =nunu=-a
+\ge and  1S-   =NAR-=like  =***=-PASS  PRES-=C6-   =*** have 1S-   =NAR-=C9-   =buy =-???
+\ps conj v.pfx-=tns-=v     =***=-v.sfx tns- =n.cls-=*** v    v.pfx-=tns-=n.cls-=v   =-v.sfx
+
+\ft
+\ref Market story.012
+\tx bei   yake        ilikuwa                       shilingi   ishirini
+\mb bei   y-    =ake  i-    =li-  =ku-   =w =-a     shilingi   ishirini
+\ge price C6-   =3S   C9-   =PAST-=2S-   =be=-???   9 shilling twenty
+\ps n     n.cls-=pron n.cls-=tns- =v.pfx-=v =-v.sfx n          num
+
+\tx kisha                  nikaenda               kununua
+\mb ki-  =*  =-sh  =-a     ni-   =ka- =end=-a     ku-      =nunu=-a
+\ge PRPT-=***=-CAUS=-???   1S-   =NAR-=go =-???   PAST/NEG-=buy =-???
+\ps tns- =***=-mood=-v.sfx v.pfx-=tns-=v  =-v.sfx tns-     =v   =-v.sfx
+
+\tx mahindi                         na   maharagwe,
+\mb ma-   =h-    =i-    =*nd=-i     na   ma-   =ha-   =*ragw=-e
+\ge C6-   =NEG-  =C9-   =***=-C9    have C6-   =NEG-  =***  =-SUB
+\ps n.cls-=v.pfx-=n.cls-=***=-n.cls v    n.cls-=v.pfx-=***  =-v.sfx
+
+\ft
+\ref Market story.013
+\tx nikanunua               mahindi                         kilo             moja,
+\mb ni-   =ka- =nunu=-a     ma-   =h-    =i-    =*nd=-i     ki-  =l-    =*o  m-    =*oj=-a
+\ge 1S-   =NAR-=buy =-???   C6-   =NEG-  =C9-   =***=-C9    PRPT-=C5-   =*** C1-   =***=-???
+\ps v.pfx-=tns-=v   =-v.sfx n.cls-=v.pfx-=n.cls-=***=-n.cls tns- =n.cls-=*** n.cls-=***=-v.sfx
+
+\ft
+\ref Market story.014
+\tx na   maragwe               kilo             mbili.
+\mb na   mara      =*gw=-e     ki-  =l-    =*o  m-    =*b =-i    =-li
+\ge and  occasion  =***=-SUB   PRPT-=C5-   =*** C1-   =***=-C9   =-C5
+\ps conj n         =***=-v.sfx tns- =n.cls-=*** n.cls-=***=-n.cls=-n.cls
+
+\ft
+\ref Market story.015
+\tx kikapu                       changu      kilikuwa            kidogo.
+\mb ki-  =ka- =p     =u-    =*   ch-   =angu ki-  =li-  =kuwa    ki-  =dogo
+\ge PRPT-=NAR-=give  =2S-   =*** C7-   =1S   PRPT-=PAST-=because PRPT-=little
+\ps tns- =tns-=v     =v.pfx-=*** n.cls-=pron tns- =tns- =conj    tns- =adj
+
+\ft
+\ref Market story.016
+\tx nikaenda               nyumbani      baada        ya          kununua
+\mb ni-   =ka- =end=-a     nyumba=-ni    *baad=-a     y-    =a    ku-      =nunu=-a
+\ge 1S-   =NAR-=go =-???   house =-at    ***  =-???   C6-   =of   PAST/NEG-=buy =-???
+\ps v.pfx-=tns-=v  =-v.sfx n     =-postp ***  =-v.sfx n.cls-=prep tns-     =v   =-v.sfx
+
+\tx hivyo                     vitu         vidogo.
+\mb h-    =i-    =vyo-   =*   vi-   =tu    vi-   =dogo
+\ge NEG-  =C9-   =REL(8)-=*** C8-   =thing C8-   =little
+\ps v.pfx-=n.cls-=rel-   =*** n.cls-=n     n.cls-=adj
+
+\ft
+\ref Market story.017
+\tx 18/Oct/2004 
+\dt 18/Oct/2004
+
+\id SwahiliChristmas
+\title Malebo na Kasisi
+\ref SwahiliChristmas.001
+\tx je   unajua                 leo   ni siku
+\mb je   u-   =na-  =ju  =-a    leo   ni siku
+\ge Q    2S-  =pres-=know=-?    today is day
+\ps qmrk vpfx-=vpfx-=v   =-vsfx n     v  n
+
+\tx gani?
+\mb gani
+\ge what
+\ps pro
+
+\ft Do you know what day it is?
+\ref SwahiliChristmas.002
+\tx Leo   ni sikukuw.
+\mb leo   ni sikukuw
+\ge today is day
+\ps n     v  n
+
+\ft Today is the day.
+\ref SwahiliChristmas.003
+\tx Ni siku ya   kuzaliwa         kwa
+\mb ni siku a    ku-  =zali=-wa   kwa
+\ge is day  of   inf- =born=-pass for
+\ps v  n    prep vpfx-=v   =-vsfx prep
+
+\tx Yesu.
+\mb Yesu
+\ge Jesus
+\ps n
+
+\ft Is the day Jesus was born.
+\ref SwahiliChristmas.004
+\tx Watu   wanaenda              kanisani
+\mb watu   wa-  =na-  =end=-a    kanisani
+\ge people 3P-  =pres-=go =-?    church
+\ps n      vpfx-=vpfx-=v  =-vsfx n
+
+\tx wakiwa            wamevalia                mavazi
+\mb wa-  =ki   =-wa   wa-  =me-   =vali =-a    ma-  =vazi
+\ge 3P-  =dress=-pass 3P-  =past1-=dress=-?    cl.1-=cloth
+\ps vpfx-=v    =-vsfx vpfx-=vpfx- =v    =-vsfx npfx-=n
+
+\tx mazuri.
+\mb ma-  =zuri
+\ge cl.1-=good
+\ps npfx-=adj
+
+\ft People are going to church dressed in nice clothing.
+\ref SwahiliChristmas.005
+\tx Ona, kasisi anatembeya              haraka
+\mb ona  kasisi a-   =na-  =tembe=-a    haraka
+\ge see  priest 3S-  =pres-=walk =-?    in a hurry
+\ps v    n      vpfx-=vpfx-=v    =-vsfx adv
+
+\tx hebu  nimusalimie.
+\mb *hebu ni-  =mu-  =salimi=-e
+\ge ***   1S-  =2P-  =greet =-subj/bene
+\ps ***   vpfx-=vpfx-=v     =-vsfx
+
+\ft I see the priest; he is walking in a hurry; let me greet him.
+\ref SwahiliChristmas.006
+\tx Habari    ya   asabuhi, Kasisi.
+\mb habari    a    asabuhi  kasisi
+\ge greetings of   morning  priest
+\ps n         prep n        n
+
+\ft Good morning, how are you, Priest?
+\ref SwahiliChristmas.007
+\tx Mzuri      sana, Malebo.
+\mb m-   =zuri sana  Malebo
+\ge cl.1-=good very  Malebo
+\ps npfx-=adj  adv   n
+
+\ft Very good, Malebo.
+\ref SwahiliChristmas.008
+\tx Na   wewe?
+\mb na   wewe
+\ge and  2S
+\ps conj pro
+
+\ft And you?
+\ref SwahiliChristmas.009
+\tx Mimi pia  habari    yangu ni mzuri.
+\mb mimi pia  habari    angu  ni m-   =zuri
+\ge 1S   also greetings mine  is cl.1-=good
+\ps pro  adv  n         pro   v  npfx-=adj
+
+\ft I am also fine.
+\ref SwahiliChristmas.010
+\tx Ni vizuri     kujuwa,          Malebo.
+\mb ni vi-  =zuri ku-  =ju  =-wa   Malebo
+\ge is cl.?-=good inf- =know=-pass Malebo
+\ps v  npfx-=adj  vpfx-=v   =-vsfx n
+
+\ft That is good to know, Malebo.
+\ref SwahiliChristmas.011
+\tx Je,  mama   na   baba   hawajambo?
+\mb je   mama   na   baba   hawajambo
+\ge Q    mother and  father pl. greeting
+\ps qmrk n      conj n      n
+
+\ft How are Mama and Dad?
+\ref SwahiliChristmas.012
+\tx Hawajambo    wamekusalimia                   sana.
+\mb hawajambo    wa-  =me-   =ku-  =salimi=-a    sana
+\ge pl. greeting 3P-  =past1-=inf- =greet =-?    very
+\ps n            vpfx-=vpfx- =vpfx-=v     =-vsfx adv
+
+\ft Fine, they send their greetings.
+\ref SwahiliChristmas.013
+\tx Wamesema          watakuja
+\mb wa-  =me-   =sema wa-  =ta-  =kuj=-a
+\ge 3P-  =past1-=say  3P-  =fut- =go =-?
+\ps vpfx-=vpfx- =v    vpfx-=vpfx-=v  =-vsfx
+
+\tx kuchelewa                    kwa  sababu
+\mb ku-  =*chel=-e        =-wa   kwa  sababu
+\ge inf- =***  =-subj/bene=-pass for  because
+\ps vpfx-=***  =-vsfx     =-vsfx prep conj
+
+\tx ng'ombe wetu      wawili
+\mb ng'ombe wa-  =etu wa-  =ili
+\ge cow     cl.- =our cl.- =two
+\ps n       npfx-=pro npfx-=adj
+
+\tx wakiume,
+\mb wakiume
+\ge male
+\ps n
+
+\tx wanaangaliwa             na   daktari wa
+\mb wa-  =na-  =angali=-wa   na   daktari a
+\ge 3P-  =pres-=check =-pass and  doctor  of
+\ps vpfx-=vpfx-=v     =-vsfx conj n       prep
+
+\tx mifugo    leo   asubuhi.
+\mb mifugo    leo   asubuhi
+\ge livestock today morning
+\ps n         n     n
+
+\ft They say they will come later because the veterinarian
+came this morning to look at two of our bulls.
+\ref SwahiliChristmas.014
+\tx Hakuna               neno,              Malebo.
+\mb ha-  =kun     =-a    neno               Malebo
+\ge neg- =there is=-?    matter for concern Malebo
+\ps vpfx-=v       =-vsfx n                  n
+
+\ft No problem, Malebo.
+\ref SwahiliChristmas.015
+\tx Leo   unakaa
+\mb leo   u-   =na-  =ka  =-a
+\ge today 2S-  =pres-=look=-?
+\ps n     vpfx-=vpfx-=v   =-vsfx
+
+\tx kupendeza.
+\mb ku-  =*pendez=-a
+\ge inf- =***    =-?
+\ps vpfx-=***    =-vsfx
+
+\ft You look smart today.
+\ref SwahiliChristmas.016
+\tx Hasa       hilo vazi  lako  la
+\mb hasa       hilo vazi  *lako a
+\ge completely that cloth ***   of
+\ps adv        pro  n     ***   prep
+
+\tx samawati linapendaza                sana.
+\mb samawati li-   =na-  =*pendaz=-a    sana
+\ge blue     past2-=pres-=***    =-?    very
+\ps adj      vpfx- =vpfx-=***    =-vsfx adv
+
+\ft That blue cloth, it is really beautiful.
+\ref SwahiliChristmas.017
+\tx Je,  ulilinunua                kwa  pesa
+\mb je   u-   =li-   =linunu=-a    kwa  *pes=-a
+\ge Q    2S-  =past2-=buy   =-?    for  *** =-?
+\ps qmrk vpfx-=vpfx- =v     =-vsfx prep *** =-vsfx
+
+\tx ngapi?
+\mb ngapi
+\ge how much
+\ps adv
+
+\ft How much did you buy it for?
+\ref SwahiliChristmas.018
+\tx Nililinunua               kwa  shilingi ishirini.
+\mb ni-  =li-   =linunu=-a    kwa  shilingi ishirini
+\ge 1S-  =past2-=buy   =-?    for  shilling twenty
+\ps vpfx-=vpfx- =v     =-vsfx prep n        adj
+
+\ft I bought it for twenty shillings.
+\ref SwahiliChristmas.019
+\tx Nio  ni bei   mzuri      sana.
+\mb hilo ni bei   m-   =zuri sana
+\ge that is price cl.1-=good very
+\ps pro  v  n     npfx-=adj  adv
+
+\ft That is a very good price.
+\ref SwahiliChristmas.020
+\tx Haya       basi, Malebo, harakisha
+\mb ha-  =a    *basi Malebo  harakish=-a
+\ge neg- =of   ***   Malebo  hurry up=-?
+\ps vpfx-=prep ***   n       v       =-vsfx
+
+\tx tutembee               pamoja,  kuelekea
+\mb tu-  =tembe=-e         pamoja   kuelekea
+\ge 1P-  =walk =-subj/bene together towards
+\ps vpfx-=v    =-vsfx      adv      prep
+
+\tx kanisani.
+\mb kanisani
+\ge church
+\ps n
+
+\ft Okay, Malebo, hurry up, we will walk together quickly
+towards the church.
+\ref SwahiliChristmas.021
+\tx Lazima tufike                  mapema ili
+\mb lazima tu-  =fik   =-e         mapema ili
+\ge must   1P-  =arrive=-subj/bene early  so that
+\ps adv    vpfx-=v     =-vsfx      adv    adv
+
+\tx tutayarishe                 nyimbo zasikuku.
+\mb tu-  =tayarish  =-e         nyimbo *zasikuku
+\ge 1P-  =make ready=-subj/bene songs  ***
+\ps vpfx-=v         =-vsfx      n      ***
+
+\ft We have to get there early so we can get the Christmas
+songs ready.
+\ref SwahiliChristmas.022
+\tx Sawa, Kasisi.
+\mb sawa  kasisi
+\ge same  priest
+\ps adj   n
+
+\ft All right, Priest.
+\ref SwahiliChristmas.023
+\tx Mimi humenda       sana kuimba,
+\mb mimi *humend=-a    sana ku-  =*imb=-a
+\ge 1S   ***    =-?    very inf- =*** =-?
+\ps pro  ***    =-vsfx adv  vpfx-=*** =-vsfx
+
+\tx hasa       wakati wa   sikukuw
+\mb hasa       wakati a    sikukuw
+\ge completely when   of   day
+\ps adv        n      prep n
+
+\tx ya   kuzaliwa         kwa  Yesu.
+\mb a    ku-  =zali=-wa   kwa  Yesu
+\ge of   inf- =born=-pass for  Jesus
+\ps prep vpfx-=v   =-vsfx prep n
+
+\ft I like to sing very much, especially during Christmas.
+\ref SwahiliChristmas.024
+\tx Ona, watu         wameanza
+\mb ona  wa-  =atu    wa-  =me-   =anz  =-a
+\ge see  cl.- =people 3P-  =past1-=begin=-?
+\ps v    npfx-=n      vpfx-=vpfx- =v    =-vsfx
+
+\tx kuasili           kanisani.
+\mb ku-  =a-   =*sili kanisa=-ni
+\ge inf- =3S-  =***   church=-at
+\ps vpfx-=vpfx-=***   n     =-nsfx
+
+\ft See, people have started to arrive at church.
+\ref SwahiliChristmas.025
+\tx Nadhani     wanakusubili         wewe
+\mb na-  =dhani wa-  =na-  =kusubili wewe
+\ge pres-=think 3P-  =pres-=wait     2S
+\ps vpfx-=v     vpfx-=vpfx-=v        pro
+
+\tx ufungue                mulango           wa
+\mb u-   =fungu=-e         mu-  =a     =*ngo a
+\ge 2S-  =open =-subj/bene 2P-  =of    =***  of
+\ps vpfx-=v    =-vsfx      vpfx-=prep  =***  prep
+
+\tx kanisa.
+\mb kanisa
+\ge church
+\ps n
+
+\ft I think they are waiting for you to open the church door.
+\ref SwahiliChristmas.026
+\tx Ndio, Malebo, ninaona.
+\mb ndio  Malebo  ni-  =na-  =ona
+\ge yes   Malebo  1S-  =pres-=see
+\ps adv   n       vpfx-=vpfx-=v
+
+\ft Yes, Malebo, I see.
+\ref SwahiliChristmas.027
+\tx Twende               haraka.
+\mb tu-  =end=-e         haraka
+\ge 1P-  =go =-subj/bene in a hurry
+\ps vpfx-=v  =-vsfx      adv
+
+\ft Let's go quickly.
+\dt 27/Oct/2004
+
+\id To Cook Fish
+\ref To Cook Fish.001
+\tx kutengeneza    samaki.
+\mb ku- =tengeneza samaki
+\ge to- =make      fish
+\ps inf-=v         n
+\ft to cook fish
+
+\ref To Cook Fish.002
+\tx osha samaki vizuri.
+\mb osha samaki vi-     =zuri
+\ge wash fish   cl. 2-  =good
+\ps v    n      cls-    =adj
+\ft wash the fish well
+
+\ref To Cook Fish.003
+\tx kata vipande          vidogo.
+\mb kata vi-       =pande vi-       =dogo
+\ge cut  cl. 2, PL-=piece cl. 2, PL-=little
+\ps v    cls-      =n     cls-      =adj
+\ft cut it into small pieces
+
+\ref To Cook Fish.004
+\tx ongeza chumvi.
+\mb ongeza chumvi
+\ge add    salt
+\ps v      n
+\ft add salt
+
+\ref To Cook Fish.005
+\tx weka mafuta ya   kupika    kwa sufuria.
+\mb weka mafuta ya   ku- =pika kwa   sufuria
+\ge put  oil    of   to- =cook in    cooking  pot
+\ps v    n      prep inf-=v    prep-=n
+\ft put cooking oil in a pot
+
+\ref To Cook Fish.006
+\tx ipate      moto.
+\mb i-  =*pate moto
+\ge it- =***   hot
+\ps pro-=***   adj
+\ft and heat it
+
+\ref To Cook Fish.007
+\tx ikisha     kuwa      moto kabisa.
+\mb i-  =kisha ku- =wa   moto kabisa
+\ge it- =after to- =becomhot  very
+\ps pro-=adv   inf-=v    adj  adv
+\ft once the oil is quite hot
+
+\ref To Cook Fish.008
+\tx weka samaki kwa ile        mafuta.
+\mb weka samaki kwa ile        mafuta
+\ge put  fish   in  that (far) oil
+\ps v    n      preppro        n
+\ft put the fish in the oil
+
+\ref To Cook Fish.009
+\tx weka kwa moto ya   kati kati   sio
+\mb weka kwa moto ya   kati kati   sio
+\ge put  on  heat of   middlmiddle not
+\ps v    prepn    prep adj  adj    neg
+
+\tx nyingi sio kidogo        iive       pole   pole.
+\mb nyingi sio ki-   =dogo   i-  =iva   pole   pole
+\ge a lot  not c1_sg-=little it- =cooks slowly slowly
+\ps adj    neg cls-  =adj    pro-=v     adv    adv
+\ft put it on medium heat, not too much or to little heat, and let it
+cook slowly
+
+\ref To Cook Fish.010
+\tx na uwacha     iive       kwa muda hadi…
+\mb na u-  =acha  i-  =iva   kwa muda hadi
+\ge andyou-=leave it- =cooks in  time until
+\ps conpro-=v     pro-=v     prepn    adv
+
+\tx iwe         rangi ya   hudhurungi kwa kila
+\mb i-  =wa     rangi ya   hudhurungi kwa kila
+\ge it- =become color of   brown      on  each
+\ps pro-=v      n     prep adj        prepadj
+\ft and leave it to cook for awhile until it becomes brown on
+both sides
+
+\tx pande na   kionekane       kimeiva
+\mb pande na   ki-   =*onekane ki-   =me-         =iva
+\ge piece and  c1_sg-=***      c1_sg-=RECENT PAST-=cooks
+\ps n     conj cls-  =***      cls-  =v.pfx-      =v
+
+\tx vizuri.
+\mb vi-       =zuri
+\ge cl. 2, PL-=good
+\ps cls-      =adj
+\ft and looks well-cooked.
+\dt 28/Oct/2004
+
+\id To Cook Ugali
+\ref To Cook Ugali.001
+\tx kupika    ugali.
+\mb ku- =pika ugali
+\ge to- =cook ugali
+\ps inf-=v    n
+\ft in order to cook ugali
+
+\ref To Cook Ugali.002
+\tx weka maji  kwa sufuria.
+\mb weka maji  kwa   sufuria
+\ge put  water in    cooking  pot
+\ps v    n     prep-=n
+\ft put water in a pot
+
+\ref To Cook Ugali.003
+\tx weka kwa moto   ichemke.
+\mb weka kwa   moto i-  =chemke
+\ge put  on    heat it- =boil
+\ps v    prep-=n    pro-=v
+\ft put  it on heat to boil
+
+\ref To Cook Ugali.004
+\tx ikishachemke.
+\mb i-  =kisha  =chemke
+\ge it- =after  =boil
+\ps pro-=adv    =v
+\ft after it boils
+
+\ref To Cook Ugali.005
+\tx ongeza unga.
+\mb ongeza unga
+\ge add    flour
+\ps v      n
+\ft add flour
+
+\ref To Cook Ugali.006
+\tx koroga ukizidi              kuongeza    unga
+\mb koroga u-  =ki-   =zidi     ku- =ongeza unga
+\ge stir   you-=c1_sg-=continue to- =add    flour
+\ps v      pro-=cls-  =v        inf-=v      n
+
+\tx kidogo kidogo.
+\mb kidogo kidogo
+\ge little by little
+\ps adv
+\ft continue to stir while adding the flour little by little
+
+\ref To Cook Ugali.007
+\tx hadi  kiwe                kigumu      kiasi.
+\mb hadi  ki-         =wa     ki-   =gumu kiasi
+\ge until RECENT PAST-=become c1_sg-=hard somewhat
+\ps adv   v.pfx-      =v      cls-  =adj  adv
+\ft until it becomes somewhat firm
+\nt kiwe?
+
+\ref To Cook Ugali.008
+\tx pika hadi  iive       vizuri.
+\mb pika hadi  i-  =iva   vi-   =zuri
+\ge cook until it- =cooks c2_pl-=good
+\ps v    adv   pro-=v     cls-  =adj
+\nt ive?
+
+\ref To Cook Ugali.009
+\tx kwa  moto ambao     sio wa juu  sana.
+\mb kwa  moto ambao     sio wa juu  sana
+\ge on   heat which is? not of high very
+\ps prep n    v         neg preadj  adv
+\ft cook it on medium heat until it is cooked well
+\nt ambao? juu ya?
+
+\ref To Cook Ugali.010
+\tx ukesha      maliza.
+\mb u-  =*kesha maliza
+\ge you-=***    complete
+\ps pro-=***    v
+\ft complete this
+
+\ref To Cook Ugali.011
+\tx toa    ugali kwa  sufuria.
+\mb toa    ugali kwa  sufuria
+\ge remove ugali from cooking pot
+\ps v      n     prep n
+\ft remove the ugali from the pot
+
+\ref To Cook Ugali.012
+\tx weka kwa  sahani.
+\mb weka kwa  sahani
+\ge put  on   plate
+\ps v    prep n
+\ft put it on a plate
+
+\ref To Cook Ugali.013
+\tx tengeneza ugali vizuri.
+\mb tengeneza ugali vi-   =zuri
+\ge make      ugali c2_pl-=good
+\ps v         n     cls-  =adj
+\ft shape the ugali well
+
+\ref To Cook Ugali.014
+\tx halafu anda chakula mezani.
+\mb halafu anda chakula meza =-ni
+\ge then   set  food    table=-on
+\ps adv    v    n       n    =-pos
+\ft then set the food on the table
+\nt ni?
+\dt 28/Oct/2004
+
+\id To Cook Vegetables
+\ref To Cook Vegetables.001
+\tx kupika    mboga.
+\mb ku- =pika mboga
+\ge to- =cook vegetable(s)
+\ps inf-=v    n
+\ft in order to cook vegetables
+
+\ref To Cook Vegetables.002
+\tx osha mboga        vizuri.
+\mb osha mboga        vi-   =zuri
+\ge wash vegetable(s) c2_pl-=good
+\ps v    n            cls-  =adj
+\ft wash the vegetables well
+
+\ref To Cook Vegetables.003
+\tx kata vipande      vidogo        vidogo.
+\mb kata vi-   =pande vi-   =dogo   vi-   =dogo
+\ge cut  c2_pl-=piece c2_pl-=little c2_pl-=little
+\ps v    cls-  =n     cls-  =adj    cls-  =adj
+\ft cut into small, small pieces
+
+\ref To Cook Vegetables.004
+\tx weka mafuta kwa sufuria.
+\mb weka mafuta kwa   sufuria
+\ge put  oil    in    cooking  pot
+\ps v    n      prep-=n
+\ft put in a pot
+
+\ref To Cook Vegetables.005
+\tx ongeza mnyanya na   vitungu.
+\mb ongeza mnyanya na   vi-   =tungu
+\ge add    tomato  and  c2_pl-=onion
+\ps v      n       conj cls-  =n
+\ft add tomatoes and onions
+
+\ref To Cook Vegetables.006
+\tx vikisha      iva   vizuri.
+\mb vi-   =kisha iva   vi-   =zuri
+\ge c2_pl-=after cooks c2_pl-=good
+\ps cls-  =adv   v     cls-  =adj
+\ft well 
+
+\ref To Cook Vegetables.007
+\tx ongeza chumvi na   mboga.
+\mb ongeza chumvi na   mboga
+\ge add    salt   and  vegetable(s)
+\ps v      n      conj n
+\ft add salt and vegetables
+
+\ref To Cook Vegetables.008
+\tx koroga hadi  mboga        ive   wa acha
+\mb koroga hadi  mboga        iva   wa acha
+\ge stir   until vegetable(s) cooks of leave
+\ps v      adv   n            v     prev
+\ft stir until vegetables can be left to coo
+\nt ive? acha?
+
+\tx funika ive   kwamda      kidogo.
+\mb funika iva   kwa   =*mda ki-   =dogo
+\ge cover  cooks in-=***  c1_sg-=little
+\ps v      v     prep  =***  cls-  =adj
+\ft cover them for a little
+
+\ref To Cook Vegetables.009
+\tx hadi  ive   vizuri.
+\mb hadi  ive   vi-   =zuri
+\ge until ripen c2_pl-=good
+\ps adv   v     cls-  =adj
+\ft until it is cooked well
+\dt 28/Oct/2004

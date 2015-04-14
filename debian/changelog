@@ -1,0 +1,18 @@
+silcc (8.1.8+nmu2) lucid; urgency=low
+
+  * Fix build bug inadvertantly introduced by previous change.
+  * Change to native format instead of quilt.
+
+ -- Stephen McConnel <stephen_mcconnel@sil.org>  Thu, 04 Apr 2013 14:55:44 -0500
+
+silcc (8.1.8-1+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+
+ -- Stephen McConnel <stephen_mcconnel@sil.org>  Tue, 10 Jul 2012 09:09:34 -0600
+
+silcc (8.1.8) unstable; urgency=low
+
+  * initial debian build
+
+ -- Doug Rintoul <doug_rintoul@sil.org>  Wed, 25 Jul 2007 10:00:00 -0700

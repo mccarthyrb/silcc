@@ -1,0 +1,19 @@
+begin > use(main)
+
+group(main)
+c Toolbox puts a lone hyphen between roots. This messes up Lextools.
+' - ' > '  ='
+'- ' > dup
+             ifn(postfix)
+                 use(find_next_segment)
+             else
+                 back(1)
+             endif
+
+' -' > '=-' set(postfix)
+nl > next
+' ' > dup clear(postfix)
+
+group(find_next_segment)
+' ' > dup
+'' > back(1) '=' store(nul) fwd(1) endstore use(main)

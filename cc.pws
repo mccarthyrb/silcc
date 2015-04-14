@@ -1,0 +1,66 @@
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[filenumbers]
+0=591
+1=341
+2=3
+3=10
+4=390
+5=91
+6=40
+7=85
+8=654
+9=38
+10=1523
+11=107
+12=17
+13=69
+14=14
+15=165
+
+[filemarkers]
+0=
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+8=
+9=
+10=
+11=
+12=
+13=
+14=
+15=
+
+[filelist]
+0=/home/doug/Projects/cc/lib/ccstate.c
+1=/home/doug/Projects/cc/include/cc.h
+2=/home/doug/Projects/cc/include/wtype.h
+3=/home/doug/Projects/cc/test/filetest.c
+4=/home/doug/Projects/cc/test/cctest.c
+5=/home/doug/Projects/cc/include/ccdll.h
+
+[Project Tree]
+0=0
+1=0:0
+
+[File Tree]
+0=0
+1=0:1
+2=0:2
+3=0:3
+4=0:4

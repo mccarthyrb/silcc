@@ -1,0 +1,4 @@
+This is the venerable Consistent Changes program and library originally
+developed by JAARS in the early 1980s.  Consistent Changes is a stream
+editor along the lines of sed but with a much different syntax and style
+of programming.

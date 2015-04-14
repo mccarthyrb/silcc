@@ -1,0 +1,25 @@
+The edit/change history in the files generally used only initials, which
+makes identification rather tricky after twenty or thirty years.  Our best
+guesses for mapping the initials onto full names are given below.  Some of
+these mappings may be wrong, and a few are unknown at this late date (2015).
+There may have been others who contributed to this code, but these are all
+that were listed in the history sections of the various files.
+
+AB = ALB = Alan Buseman   1983, 1985, 1986, 1994 (ALB)
+ACR = ???                 1989, 1990
+BDW = Bryan Wussow        1994
+BJY = ???                 1995
+BLR = ???                 1991
+DAR = Doug Rintoul        1995, 1997, 2001
+DJE = Dan Edwards         1991, 1993
+DRC = Doug Case           1995, 1996
+GT = GET = Greg Trihus    1983, 1984, 1985, 1993 (GET)
+MT = Mike Titus           1986, 1987, 1988
+SMc = Stephen McConnel    1986, 2013, 2015
+SEB = ???                 1985
+
+The original C code was converted from Pascal code written in 1983.  The
+Pascal program was a reimplementation of an earlier program written in PTP,
+a Teco-like programming language invented and implemented for 8080 based
+microcomputers by Gary Simons in the late 1970s and reimplemented for RT-11
+and MSDOS by Stephen McConnel.

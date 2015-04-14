@@ -1,0 +1,30 @@
+Source: silcc
+Section: editors
+Priority: extra
+Maintainer: Doug Rintoul <doug_rintoul@sil.org>
+Build-Depends: debhelper (>= 7.0.0), autotools-dev
+Standards-Version: 3.9.3
+#Homepage: <insert the upstream URL, if relevant>
+
+Package: silcc
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Consistant Changes
+ Consistent Changes is useful for finding all occurrences of specified
+ characters, words, or phrases in a text file or series of text files, and
+ then changing them in a consistent way.
+
+Package: libsilcc0
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Consistant Changes library
+ Library for Consistant Changes program.
+
+Package: libsilcc-dev
+Section: libdevel
+Architecture: any
+Depends: libsilcc0 (= ${binary:Version}), ${misc:Depends}
+Description: Development files for Consistent Changes Library
+ Development libraries and headers to use the Consistent Changes library
+ (libsilcc.so) in an application

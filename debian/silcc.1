@@ -1,0 +1,31 @@
+.TH SILCC 1 "Version 8.1.8 July 2007"
+.SH NAME
+silcc \- Consistent Changes, Copyright 1980-2007 SIL Inc.
+.SH SYNOPSIS
+.B silcc
+[ options ] input_files
+.SH DESCRIPTION
+silcc, also known as Consistent Changes, is a stream editor like sed, but with a much different approach.
+.SH OPTIONS
+Options are:
+.IP \-t\fIfile\fP
+Table name \- this is required
+.IP \-q
+Quiet \- don't ask, just delete and replace output file, if it exists
+.IP \-n
+Noiseless \- don't beep or display processing messages
+.IP \-a
+Append \- append to output file, if it exists
+.IP \-o\fIfile\fP
+Output filename \- may contain * or ? wildcards.  If no output file is specified, the stdout is used.
+.IP \-i\fIfile\fP
+Input list filename \- list of input files taken from \fIfile\fP
+.IP \-p
+Percentage \- print percentage complete while processing
+.IP \-u
+Enable UTF\-8 support
+.IP \-w
+Write command output filename \- file output for write and wrstore commands
+.PP
+Input_files are input file names that may contain * or ? wildcards.
+If no input file is specified, the stdin is used.
