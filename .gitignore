@@ -15,4 +15,4 @@ src/silcc
 configure
 config.log
 config.status
-config.h*
+config.h
