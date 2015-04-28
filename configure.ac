@@ -3,7 +3,7 @@ dnl Created by Anjuta - will be overwritten
 dnl If you don't want it to overwrite it,
 dnl 	Please disable it in the Anjuta project configuration
 
-AC_INIT(cc, 8.1.8, doug_rintoul@sil.org)
+AC_INIT(cc, 8.1.9, doug_rintoul@sil.org)
 AM_INIT_AUTOMAKE([foreign])
 AM_CONFIG_HEADER(config.h)
 
