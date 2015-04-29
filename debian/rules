@@ -21,4 +21,4 @@ export DH_OPTIONS
 	dh $@
 
 override_dh_auto_configure:
-	./autogen.sh
+	./autogen.sh --prefix=/usr
