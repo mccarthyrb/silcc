@@ -16,9 +16,5 @@ export DH_VERBOSE=1
 # This has to be exported to make some magic below work.
 export DH_OPTIONS
 
-
 %:
-	dh $@
-
-override_dh_auto_configure:
-	./autogen.sh --prefix=/usr
+	dh $@ --with autoreconf

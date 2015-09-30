@@ -2,10 +2,10 @@ Source: silcc
 Section: editors
 Priority: extra
 Maintainer: Doug Rintoul <doug_rintoul@sil.org>
-Build-Depends: debhelper (>= 7.0.0), autotools-dev,
+Build-Depends: debhelper (>= 7.0.0), dh-autoreconf, autotools-dev,
  pkg-config, libtool, automake, autoconf
-Standards-Version: 3.9.3
-#Homepage: <insert the upstream URL, if relevant>
+Standards-Version: 3.9.6
+Homepage: http://github.com/sillsdev/silcc
 
 Package: silcc
 Architecture: any
